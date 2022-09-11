@@ -66,12 +66,12 @@
 
 <h2 id="b">🎯 规则订阅</h2>
 
-| 名称       | 说明                               | Github订阅                                                                            | jsDelivr加速订阅                                                             |
-|---------- |------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| all.txt   | 仅去重的规则合集，适用于AdGuard客户端| [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/all.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/all.txt)           |
-| adgh.txt  | 针对AdGuardHome的规则              | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/adgh.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/adgh.txt)   |
-| hosts.txt | hosts规则，包含一些访问加速         | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/hosts.txt)  | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/hosts.txt)  |
-| mylist    | 人工修正的补充规则，人工更新         | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/mylist.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/mylist.txt) |
+| 名称       | 说明                               | Github订阅                                                                            | 
+|---------- |------------------------------------|-------------------------------------------------------------------------------------|
+| all.txt   | 仅去重的规则合集，适用于AdGuard客户端| [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | 
+| adgh.txt  | 针对AdGuardHome的规则              | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | [
+| hosts.txt | hosts规则，包含一些访问加速         | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/hosts.txt)  |
+| mylist    | 人工修正的补充规则，人工更新         | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/mylist.txt) | 
 
 <h2 id="c">🛠️ 快速开始</h2>
 
