@@ -15,6 +15,7 @@ rule:
     - 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt' #HalfLife（pc）
     - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt' #Adgk
     - 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
+    - 'https://anti-ad.net/easylist.txt' #anti-ad AdGuardHome
     
   #本地规则
   local:
