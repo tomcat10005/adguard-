@@ -1,4 +1,4 @@
-# Update time: 2022-09-12 00:06:10
+# Update time: 2022-09-12 00:08:51
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -3836,7 +3836,6 @@
 127.0.0.1 gwallet.com
 127.0.0.1 rp.gwallet.com
 127.0.0.1 perr.h-cdn.com
-127.0.0.1 h12-media.com
 127.0.0.1 tags.h12-media.com
 127.0.0.1 dil.hansel.io
 127.0.0.1 sdk.hansel.io
@@ -7913,18 +7912,11 @@
 127.0.0.1 log-collector.svctr.zynga.com
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
-0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 adnexus.net
-0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads1.msn.com
 0.0.0.0 aidps.atdmt.com
-0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.edgeoffer.microsoft.com
@@ -7932,7 +7924,6 @@
 0.0.0.0 azwancan.trafficmanager.net
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
-0.0.0.0 b.rad.msn.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 blobcollector.events.data.trafficmanager.net
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
@@ -7976,7 +7967,6 @@
 0.0.0.0 bn4sch101123202.wns.windows.com
 0.0.0.0 bn4sch102110124.wns.windows.com
 0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.msn.com
 0.0.0.0 ca.telemetry.microsoft.com
@@ -12471,6 +12461,7 @@
 0.0.0.0 15.basebanner.com
 0.0.0.0 15.taboola.com
 0.0.0.0 1l-view.mail.ru
+0.0.0.0 2.marketbanker.com
 0.0.0.0 2.speedknow.co
 0.0.0.0 207-87-18-203.wsmg.digex.net
 0.0.0.0 2468.go2cloud.org
@@ -12527,6 +12518,8 @@
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
@@ -12543,6 +12536,7 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
 0.0.0.0 a.total-media.net
@@ -13027,6 +13021,7 @@
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetworkperformance.com
+0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobee.com
@@ -13559,6 +13554,8 @@
 0.0.0.0 ads1.destructoid.com
 0.0.0.0 ads1.erotism.com
 0.0.0.0 ads1.jev.co.za
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
 0.0.0.0 ads1.revenue.net
@@ -13996,6 +13993,7 @@
 0.0.0.0 ak.buyservices.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.ms-ads.co
@@ -14166,6 +14164,7 @@
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
 0.0.0.0 b.rad.live.com
+0.0.0.0 b.rad.msn.com
 0.0.0.0 b.recwwcc5.info
 0.0.0.0 b1fe8a95ae27823.com
 0.0.0.0 b34rightym.com
@@ -14352,6 +14351,7 @@
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesentinel.com
 0.0.0.0 brxfinance.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.url.tw
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 btbuyerapp.com
@@ -20862,6 +20862,7 @@
 0.0.0.0 agn.aty.cp45.ott.cibntv.net
 0.0.0.0 m.aty.cp45.ott.cibntv.net
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
+0.0.0.0 agn.aty.snmsohu.aisee.tv
 0.0.0.0 m.aty.snmsohu.aisee.tv
 0.0.0.0 mmg.aty.snmsohu.aisee.tv
 0.0.0.0 g.dtv.cn.miaozhen.com
@@ -20994,6 +20995,7 @@
 0.0.0.0 ifengad.3g.ifeng.com
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
+0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
 0.0.0.0 c0.ifengimg.com
@@ -21039,6 +21041,7 @@
 0.0.0.0 cj.qidian.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 uedas.qidian.com
+0.0.0.0 uedas.qdmm.com
 0.0.0.0 finead.cn
 0.0.0.0 www.cpv6.com
 0.0.0.0 imagelx.yidianzixun.com
@@ -21549,6 +21552,7 @@
 0.0.0.0 countpvn.light.fang.com
 0.0.0.0 countubn.light.soufun.com
 0.0.0.0 mshow.fang.com
+0.0.0.0 tongji.home.soufun.com
 0.0.0.0 cpro.fangtoo.com
 0.0.0.0 ubm.fangtoo.com
 0.0.0.0 ad.ganji.com
@@ -22666,6 +22670,7 @@
 0.0.0.0 kti.mcjjsdhfg.cn
 0.0.0.0 kveaa.com
 0.0.0.0 kvecc.com
+0.0.0.0 kvemm.com
 0.0.0.0 kvezz.com
 0.0.0.0 l.dalemax.cn
 0.0.0.0 l.ksxcxb.cn
@@ -23002,6 +23007,7 @@
 0.0.0.0 pp.lbsjrw.cn
 0.0.0.0 pro.baidu.com
 0.0.0.0 ps.dlads.cn
+0.0.0.0 psma02.com
 0.0.0.0 psptoolapi.ctags.cn
 0.0.0.0 pstarv.cn
 0.0.0.0 push2.eastmoney.com
@@ -23235,6 +23241,7 @@
 0.0.0.0 v.dengbaozx.cn
 0.0.0.0 v.heygugu.com
 0.0.0.0 v.jumorecn.com.cn
+0.0.0.0 v.lovame.com.cn
 0.0.0.0 v.oq68.com
 0.0.0.0 v.originz.cn
 0.0.0.0 v.oumaite168.com.cn
@@ -23285,6 +23292,7 @@
 0.0.0.0 wangdq.com
 0.0.0.0 wap.138lm.com
 0.0.0.0 wap.bytdzsw.com
+0.0.0.0 wap.tanwan.com
 0.0.0.0 wap.txwdn.com
 0.0.0.0 wap.utmei.cn
 0.0.0.0 wbf9k9.com
@@ -23524,6 +23532,7 @@
 0.0.0.0 xg4ken.com
 0.0.0.0 xia.chemdraw.com
 0.0.0.0 xiaoshuo.kp53.cn
+0.0.0.0 xiazai.cdren.com
 0.0.0.0 xinghao89.com
 0.0.0.0 xj.zjhim.com
 0.0.0.0 xji.qwxcs.com
@@ -23731,6 +23740,7 @@
 0.0.0.0 r.pixgold.com
 0.0.0.0 ad.unimhk.com
 0.0.0.0 pixel-hk.pixelinteractivemedia.com
+0.0.0.0 snap.snapmobile.asia
 0.0.0.0 static.snapmobile.asia
 0.0.0.0 adx.adxglobal.com
 0.0.0.0 lndnserror6.wo.com.cn
@@ -23893,6 +23903,7 @@
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 g.baidu.com
+0.0.0.0 release.baidu.com
 0.0.0.0 sclick.baidu.com
 0.0.0.0 share.baidu.com
 0.0.0.0 tuijian.baidu.com
@@ -24192,6 +24203,7 @@
 0.0.0.0 www.behe.com
 0.0.0.0 cm.api.baifendian.com
 0.0.0.0 ds.api.baifendian.com
+0.0.0.0 ds10.api.baifendian.com
 0.0.0.0 m.api.baifendian.com
 0.0.0.0 rec.api.baifendian.com
 0.0.0.0 static.baifendian.com
@@ -24312,6 +24324,7 @@
 0.0.0.0 impression.gridsumdissector.com
 0.0.0.0 recv-vd.gridsumdissector.com
 0.0.0.0 recv-wd.gridsumdissector.com
+0.0.0.0 sso-cas.gridsumdissector.com
 0.0.0.0 static.gridsumdissector.com
 0.0.0.0 api.growingio.com
 0.0.0.0 assets.growingio.com
@@ -25139,6 +25152,7 @@
 0.0.0.0 img.apnanalytics.com
 0.0.0.0 inapp.1sapp.com
 0.0.0.0 iosipa.b0.upaiyun.com
+0.0.0.0 ld.mediaget.com
 0.0.0.0 m.649649.com
 0.0.0.0 m.937920.com
 0.0.0.0 m.qianka.com
