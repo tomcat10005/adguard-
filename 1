@@ -1,0 +1,238 @@
+MIT License
+
+Copyright (c) 2022 以谶
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <name>adg-rule</name>
+    <groupId>org.fordes</groupId>
+    <description>adg-rule</description>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>adg-rule</artifactId>
+    <version>1.0.0</version>
+
+    <properties>
+        <java.version>11</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <spring-boot.version>2.7.0</spring-boot.version>
+        <guava.version>31.0-jre</guava.version>
+        <hutool.version>5.8.0</hutool.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>${hutool.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>${guava.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <optional>true</optional>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-dependencies</artifactId>
+                <version>${spring-boot.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>11</source>
+                    <target>11</target>
+                    <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.4.1</version>
+                <configuration>
+                    <mainClass>org.fordes.adg.rule.AdgRuleApplication</mainClass>
+                    <excludes>
+                        <exclude>
+                            <groupId>org.projectlombok</groupId>
+                            <artifactId>lombok</artifactId>
+                        </exclude>
+                    </excludes>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>repackage</id>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
+
+<div align="center">
+<h1>AdGuard Rule</h1>
+  <p>
+    一个简易的Java程序，用于合并与更新AdGuardHome过滤规则
+  </p>
+<!-- Badges -->
+<p>
+  <a href="https://github.com/fordes123/adg-rule">
+    <img src="https://img.shields.io/github/last-commit/fordes123/adg-rule?style=flat-square" alt="last update" />
+  </a>
+  <a href="https://github.com/fordes123/adg-rule">
+    <img src="https://img.shields.io/github/forks/fordes123/adg-rule?style=flat-square" alt="forks" />
+  </a>
+  <a href="https://github.com/fordes123/adg-rule">
+    <img src="https://img.shields.io/github/stars/fordes123/adg-rule?style=flat-square" alt="stars" />
+  </a>
+  <a href="https://github.com/fordes123/adg-rule/issues/">
+    <img src="https://img.shields.io/github/issues/fordes123/adg-rule?style=flat-square" alt="open issues" />
+  </a>
+  <a href="https://github.com/fordes123/adg-rule">
+    <img src="https://img.shields.io/github/license/fordes123/adg-rule?style=flat-square" alt="license" />
+  </a>
+</p>
+
+<h4>
+    <a href="#a">项目说明</a>
+  <span> · </span>
+    <a href="#b">规则订阅</a>
+  <span> · </span>
+    <a href="#c">快速上手</a>
+  <span> · </span>
+    <a href="#d">问题反馈</a>
+  </h4>
+</div>
+
+<br />
+
+<h2 id="a">📔 项目说明</h2>
+
+本项目旨在按需求整合AdGuardHome规则。定时从上游订阅获取规则，去除重复和不受支持的规则并进行分类。
+
+#### 订阅规则
+
+<details>
+<summary>点击查看</summary>
+<ul>
+    <li><a href="https://github.com/hoshsadiq/adblock-nocoin-list/">adblock-nocoin-list</a></li>
+    <li><a href="https://github.com/durablenapkin/scamblocklist">Scam Blocklist</a></li>
+    <li><a href="https://someonewhocares.org/hosts/zero/hosts">Dan Pollock's List</a></li>
+    <li><a href="https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt">AdGuard DNS filter</a></li>
+    <li><a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext">Peter Lowe's List</a></li>
+    <li><a href="https://abp.oisd.nl/basic/">OISD Blocklist Basic</a></li>
+    <li><a href="https://adaway.org/hosts.txt">AdAway Default Blocklist</a></li>
+    <li><a href="https://github.com/crazy-max/WindowsSpyBlocker">WindowsSpyBlocker</a></li>
+    <li><a href="https://github.com/o0HalfLife0o/list">HalfLife（pc）</a></li>
+    <li><a href="https://github.com/banbendalao/ADgk">Adgk</a></li>
+    <li><a href="https://github.com/VeleSila/yhosts">yhosts</a></li>
+    <li><a href="https://github.com/privacy-protection-tools/anti-AD">anti-AD(AdGuardHome)</a></li> 
+</ul>
+</details>
+
+#### 本地规则
+
+- [mylist](#)
+>主要是对上游规则的修正补充，根据日常使用体验，解除一些失误拦截
+
+<h2 id="b">🎯 规则订阅</h2>
+
+| 名称       | 说明                               | Github订阅                                                                            | jsDelivr加速订阅                                                             |
+|---------- |------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| all.txt   | 仅去重的规则合集，适用于AdGuard客户端| [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/all.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/all.txt)           |
+| adgh.txt  | 针对AdGuardHome的规则              | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/adgh.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/adgh.txt)   |
+| hosts.txt | hosts规则，包含一些访问加速         | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/hosts.txt)  | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/hosts.txt)  |
+| mylist    | 人工修正的补充规则，人工更新         | [✈️点此查看](https://raw.githubusercontent.com/fordes123/adg-rule/main/rule/mylist.txt) | [🚀点此查看(延迟)](https://cdn.jsdelivr.net/gh/fordes123/adg-rule/rule/mylist.txt) |
+
+<h2 id="c">🛠️ 快速开始</h2>
+
+- fork本项目
+- 编辑`src/main/resources/application.yml`文件，在`rule.remote`节点下添加你的上游规则订阅链接，在`rule.local`节点下添加你的本地规则，注意本地规则文件应加入项目根目录`rule`文件夹
+- 编辑`.github/workflows/auto-update.yml` 文件，更改`Commit Changes`区块下邮箱与用户名
+- 提交所有修改并等待`Github Action`执行，执行完成后相应规则生成在`rule`目录下
+
+<h2 id="d">💬 问题反馈</h2>
+
+- 👉 [issues](https://github.com/fordes123/adg-rule/issues)
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.idea
+target
+src/test
