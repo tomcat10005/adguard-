@@ -70,12 +70,12 @@
 
 <h2 id="b">🎯 规则订阅</h2>
 
-| 名称       | 说明                               | Github订阅                                                                            | 
+| 名称       | 说明                               | Github订阅                                                                            | 加速                                                                            | 
 |---------- |------------------------------------|-------------------------------------------------------------------------------------|
-| all.txt   | 仅去重的规则合集，适用于AdGuard客户端| [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | 
-| adgh.txt  | 针对AdGuardHome的规则              | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | [
-| hosts.txt | hosts规则，包含一些访问加速         | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/hosts.txt)  |
-| mylist    | 人工修正的补充规则，人工更新         | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/mylist.txt) | 
+| all.txt   | 仅去重的规则合集，适用于AdGuard客户端| [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) |  [✈️加速](https://ghproxy.com/https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | 
+| adgh.txt  | 针对AdGuardHome的规则              | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | [✈️加速](https://ghproxy.com/https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | 
+| hosts.txt | hosts规则，包含一些访问加速         | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/hosts.txt)  |[✈️加速](https://ghproxy.com/https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/hosts.txt)  |
+| mylist    | 人工修正的补充规则，人工更新         | [✈️没用](https://www.baidu.com) | 
 
 <h2 id="c">🛠️ 快速开始</h2>
 
