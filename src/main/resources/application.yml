@@ -18,6 +18,12 @@ rule:
     - 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
     - 'https://anti-ad.net/easylist.txt' #anti-ad AdGuardHome
     - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt' #BlueSkyXN/AdGuardHomeRules
+    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt'
+    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt'
+    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt'
+    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt'
+    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt'
+    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ubcn.txt'
     - 'https://raw.githubusercontent.com/emCupid/adg_cn/master/adg_emCupid.txt'  #emCupid/adg_cn
     - 'https://raw.githubusercontents.com/Silentely/AdBlock-Acceleration/main/AdGuard_Simplified_Domain_Names_Filter.txt'   #/Silentely/AdBlock-Acceleration
     - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' #Adblock-Plus-Rule
@@ -35,6 +41,6 @@ rule:
     - 'https://ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' 
     - 'https://p.xxoo.skin/w.txt' 
     
-  #本地规则
+  #本地规则     #- ''
   local:
     - 'mylist.txt'
