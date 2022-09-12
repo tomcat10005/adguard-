@@ -16,6 +16,20 @@ rule:
     - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt' #Adgk
     - 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
     - 'https://anti-ad.net/easylist.txt' #anti-ad AdGuardHome
+    -‘https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt’ #BlueSkyXN/AdGuardHomeRules
+    -‘https://raw.githubusercontent.com/emCupid/adg_cn/master/adg_emCupid.txt’  #emCupid/adg_cn
+    -‘https://raw.githubusercontents.com/Silentely/AdBlock-Acceleration/main/AdGuard_Simplified_Domain_Names_Filter.txt’   #/Silentely/AdBlock-Acceleration
+    -‘https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt’ #Adblock-Plus-Rule
+    -‘https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt’
+    -‘https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt’
+    -‘https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt’
+    -‘https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt’
+    -‘https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt’
+    -‘https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt’
+    -‘https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt’
+    -‘https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt’
+ 
+
     
   #本地规则
   local:
