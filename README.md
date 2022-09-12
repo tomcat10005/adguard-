@@ -1,8 +1,12 @@
 <div align="center">
 <h1>AdGuard Rule</h1>
   <p>
-    一个简易的Java程序，用于合并与更新AdGuardHome过滤规则
+    一个简易的Java程序，用于合并与更新AdGuardHome过滤规则，我就试试
   </p>
+  <p>
+     项目作者rdes123/adg-rule，我是搬过来的自己研究研究咋做的
+  </p>
+ 
 <!-- Badges -->
 <p>
   <a href="https://github.com/tomcat10005/adguard-">
