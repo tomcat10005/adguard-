@@ -3,6 +3,10 @@
   <p>
     一个简易的Java程序，用于合并与更新AdGuardHome过滤规则
   </p>
+  <p>
+     rdes123/adg-rule
+  </p>
+ 
 <!-- Badges -->
 <p>
   <a href="https://github.com/tomcat10005/adguard-">
