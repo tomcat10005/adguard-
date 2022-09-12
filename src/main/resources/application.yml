@@ -29,8 +29,11 @@ rule:
     - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt'
     - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt'
     - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt'
- 
-
+    - 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' 
+    - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' 
+    - 'https://cats-team.github.io/AdRules/adblock.txt' 
+    - 'https://ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' 
+    - 'https://p.xxoo.skin/w.txt' 
     
   #本地规则
   local:
