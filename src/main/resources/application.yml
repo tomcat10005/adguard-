@@ -40,6 +40,7 @@ rule:
     - 'https://cats-team.github.io/AdRules/adblock.txt' 
     - 'https://ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' 
     - 'https://p.xxoo.skin/w.txt' 
+    -'https://ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt'
     
   #本地规则     #- ''
   local:
