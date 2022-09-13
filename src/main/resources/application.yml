@@ -41,8 +41,10 @@ rule:
     - 'https://ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' 
     - 'https://p.xxoo.skin/w.txt' 
     - 'https://file.trli.club:2087/github/Accelerate-Hosts.txt'
-    
- 
+    - 'https://www.trli.club/ad-hosts/ad-hosts-sqlist/ad-adguardhome.txt'
+    - 'https://www.trli.club/ad-hosts/ad-hosts-sqlist/ad-adguardhome-dnstype.txt'
+    - 'https://www.trli.club/ad-hosts/ad-hosts-sqlist/ad-hosts.txt'
+    - 'https://www.trli.club/ad-hosts/ad-hosts-pro/ad-adguardhome-dnstype.txt'
   #本地规则     #- ''
   local:
     - 'mylist.txt'
