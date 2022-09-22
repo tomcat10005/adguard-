@@ -3,6 +3,14 @@
   <p>
     一个简易的Java程序，用于合并与更新AdGuardHome过滤规则，我就试试
   </p>
+  <h3>去广告效果检测网站</h3>
+1.https://checkadblock.ru/
+<br/>
+2.https://blockads.fivefilters.org/
+<br/>
+3.https://canyoublockit.com/extreme-test/
+<br/>
+
   <p>
      项目作者rdes123/adg-rule，我是搬过来的自己研究研究咋做的
   </p>
