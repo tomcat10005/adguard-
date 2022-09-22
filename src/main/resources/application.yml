@@ -47,6 +47,8 @@ rule:
     - 'https://www.trli.club/ad-hosts/ad-hosts-pro/ad-adguardhome-dnstype.txt'
     - 'https://file.trli.club:2087/ad-youtube-hosts/ad-youtube-adguardhome.txt'
     - 'https://raw.githubusercontents.com/Silentely/AdBlock-Acceleration/main/ADgk.txt'
+    - 'https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts'
+    
     
     
   #本地规则     #- ''
