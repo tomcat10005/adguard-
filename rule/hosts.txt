@@ -1,7 +1,7 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-04-10 00:14:28
-! Homepage: https://github.com/xndeye/adblock_list
+! Last Modified: 2023-04-10 00:26:04
+! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 127.0.0.1 c.sayhi.360.cn
 127.0.0.1 ggs.myzaker.com
