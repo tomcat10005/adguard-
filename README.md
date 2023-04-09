@@ -1,97 +1,34 @@
-<div align="center">
-<h1>AdGuard Rule</h1>
-  <p>
-    一个简易的Java程序，用于合并与更新AdGuardHome过滤规则，我就试试
-  </p>
-  <h3>去广告效果检测网站</h3>
-1.https://checkadblock.ru/
-<br/>
-2.https://blockads.fivefilters.org/
-<br/>
-3.https://canyoublockit.com/extreme-test/
-<br/>
+## AbBlock List
 
-  <p>
-     项目作者rdes123/adg-rule，我是搬过来的自己研究研究咋做的
-  </p>
- 
-<!-- Badges -->
-<p>
-  <a href="https://github.com/tomcat10005/adguard-">
-    <img src="https://img.shields.io/github/last-commit/fordes123/adg-rule?style=flat-square" alt="last update" />
-  </a>
-  <a href="https://github.com/tomcat10005/adguard-">
-    <img src="https://img.shields.io/github/forks/fordes123/adg-rule?style=flat-square" alt="forks" />
-  </a>
-  <a href="https://github.com/tomcat10005/adguard-">
-    <img src="https://img.shields.io/github/stars/fordes123/adg-rule?style=flat-square" alt="stars" />
-  </a>
-  <a href="https://github.com/tomcat10005/adguard-/issues/">
-    <img src="https://img.shields.io/github/issues/fordes123/adg-rule?style=flat-square" alt="open issues" />
-  </a>
-  <a href="https://github.com/tomcat10005/adguard-">
-    <img src="https://img.shields.io/github/license/fordes123/adg-rule?style=flat-square" alt="license" />
-  </a>
-</p>
+广告过滤规则整合，使用 [fordes123/ad-filters-subscriber](https://github.com/fordes123/ad-filters-subscriber) 定时更新
+> AdGuard客户端(软件、扩展)、AdBlock、AdBlockPlus、uBlock Origin 推荐使用：`all.txt`</br>
+> AdGuardHome 推荐使用：`dns.txt`</br>
+> AdAway 等其他仅支持 hosts 的工具，推荐使用：`hosts.txt`
 
-<h4>
-    <a href="#a">项目说明</a>
-  <span> · </span>
-    <a href="#b">规则订阅</a>
-  <span> · </span>
-    <a href="#c">快速上手</a>
-  <span> · </span>
-    <a href="#d">问题反馈</a>
-  </h4>
-</div>
-
-<br />
-
-<h2 id="a">📔 项目说明</h2>
-
-本项目旨在按需求整合AdGuardHome规则。定时从上游订阅获取规则，去除重复和不受支持的规则并进行分类。
-
-#### 订阅规则
+| 名称            | 说明                                                                   |                                       Github                                       |                                                ghproxy                                                 |
+|---------------|:---------------------------------------------------------------------|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| `all.txt`     | 去重的规则合集，包含`DOMAIN`、`REGEX`、`MODIFY`、`HOSTS`，适用于 `AdGuard`、`AdBlock`等 |  [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt)   |  [Link](https://ghproxy.com/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/all.txt)   |
+| `dns.txt`     | 包含 `DOMAIN`、`REGEX`、`HOSTS`规则，适用于`AdGuardHome` 等基于DNS的过滤工具           |  [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt)   |  [Link](https://ghproxy.com/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt)   |
+| `domain.txt`  | `DOMAIN` 域名规则，仅完整域名                                                 | [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/domain.txt) | [Link](https://ghproxy.com/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/domain.txt) |
+| `hosts.txt`   | `HOSTS` 规则，适用于几乎所有设备                                             | [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/hosts.txt)  | [Link](https://ghproxy.com/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/hosts.txt)  |
+| `modify.txt`  | `MODIFY` 修饰规则，添加了一些修饰符号的规则，AdG支持, `modify.txt` + `dns.txt` = `all.txt`                | [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/modify.txt) | [Link](https://ghproxy.com/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/modify.txt) |
+| `private.txt` | 由本仓库维护的私有规则，主要是对上游规则的补充                                              | [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt) | [Link](https://ghproxy.com/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt) |
+| `regex.txt`   | `REGEX` 正则规则，包含正则的域名规则，AdGH支持                                                 | [Link](https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/regex.txt) | [Link](https://ghproxy.com/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/regex.txt) |
 
 <details>
-<summary>点击查看</summary>
+<summary>点击查看上游规则</summary>
 <ul>
     <li><a href="https://github.com/hoshsadiq/adblock-nocoin-list/">adblock-nocoin-list</a></li>
     <li><a href="https://github.com/durablenapkin/scamblocklist">Scam Blocklist</a></li>
     <li><a href="https://someonewhocares.org/hosts/zero/hosts">Dan Pollock's List</a></li>
-    <li><a href="https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt">AdGuard DNS filter</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt">AdGuard DNS filter</a></li>
     <li><a href="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext">Peter Lowe's List</a></li>
-    <li><a href="https://abp.oisd.nl/basic/">OISD Blocklist Basic</a></li>
     <li><a href="https://adaway.org/hosts.txt">AdAway Default Blocklist</a></li>
     <li><a href="https://github.com/crazy-max/WindowsSpyBlocker">WindowsSpyBlocker</a></li>
-    <li><a href="https://github.com/o0HalfLife0o/list">HalfLife（pc）</a></li>
-    <li><a href="https://github.com/banbendalao/ADgk">Adgk</a></li>
-    <li><a href="https://github.com/VeleSila/yhosts">yhosts</a></li>
-    <li><a href="https://github.com/privacy-protection-tools/anti-AD">anti-AD(AdGuardHome)</a></li> 
+    <li><a href="https://github.com/jdlingyu/ad-wars">ad-wars</a></li>
+    <li><a href="https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt">AdGuard Base</a></li>
+    <li><a href="https://github.com/TG-Twilight/AWAvenue-Adblock-Rule">AWAvenue-Adblock-Rule</a></li>
+    <li><a href="https://github.com/sbwml/halflife-list">halflife-list</a></li>
+    <li><a href="https://github.com/uniartisan/adblock_list">uniartisan-adblock_list</a></li>
 </ul>
 </details>
-
-#### 本地规则
-
-- [mylist](#)
->没用
-
-<h2 id="b">🎯 规则订阅</h2>
-
-| 名称       | 说明                               | Github订阅                                                                            | 加速订阅                                                             |
-|---------- |------------------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| all.txt   | 仅去重的规则合集，适用于AdGuard客户端| [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) |  [✈️加速](https://ghproxy.com/https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/all.txt) | 
-| adgh.txt  | 针对AdGuardHome的规则              | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | [✈️加速](https://ghproxy.com/https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/adgh.txt) | 
-| hosts.txt | hosts规则，包含一些访问加速         | [✈️点此查看](https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/hosts.txt)  |[✈️加速](https://ghproxy.com/https://raw.githubusercontent.com/tomcat10005/adguard-/main/rule/hosts.txt)  |
-| mylist    | 人工修正的补充规则，人工更新         | [✈️没用](https://www.baidu.com) | 
-
-<h2 id="c">🛠️ 快速开始</h2>
-
-- fork本项目
-- 编辑`src/main/resources/application.yml`文件，在`rule.remote`节点下添加你的上游规则订阅链接，在`rule.local`节点下添加你的本地规则，注意本地规则文件应加入项目根目录`rule`文件夹
-- 编辑`.github/workflows/auto-update.yml` 文件，更改`Commit Changes`区块下邮箱与用户名
-- 提交所有修改并等待`Github Action`执行，执行完成后相应规则生成在`rule`目录下
-
-<h2 id="d">💬 问题反馈</h2>
-
-- 👉 [issues](https://github.com/tomcat10005/adguard-/issues)

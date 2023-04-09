@@ -1,80 +1,58 @@
 package org.fordes.adg.rule;
 
-import cn.hutool.core.date.DateUtil;
-import cn.hutool.core.date.TimeInterval;
-import cn.hutool.core.thread.ExecutorBuilder;
-import cn.hutool.core.thread.ThreadUtil;
-import cn.hutool.core.util.StrUtil;
-import cn.hutool.core.util.URLUtil;
-import com.google.common.hash.BloomFilter;
-import com.google.common.hash.Funnels;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.fordes.adg.rule.config.OutputConfig;
 import org.fordes.adg.rule.config.RuleConfig;
-import org.fordes.adg.rule.thread.LocalRuleThread;
-import org.fordes.adg.rule.thread.RemoteRuleThread;
-import org.springframework.boot.ApplicationArguments;
+import org.fordes.adg.rule.enums.RuleType;
+import org.fordes.adg.rule.handler.RuleHandler;
+import org.fordes.adg.rule.util.RuleUtil;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.stereotype.Component;
+import org.springframework.context.annotation.Bean;
+import org.springframework.scheduling.annotation.EnableAsync;
 
-import java.io.File;
-import java.nio.charset.Charset;
-import java.util.concurrent.ThreadPoolExecutor;
+import java.io.BufferedOutputStream;
+import java.util.Map;
+import java.util.Set;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.stream.Collectors;
 
 @Slf4j
-@Component
+@EnableAsync
 @AllArgsConstructor
 @SpringBootApplication
-public class AdgRuleApplication implements ApplicationRunner {
-
-    private final static int n = 2 * Runtime.getRuntime().availableProcessors();
+public class AdgRuleApplication {
 
     private final RuleConfig ruleConfig;
 
-    private final ThreadPoolExecutor executor = ExecutorBuilder.create()
-            .setCorePoolSize(n)
-            .setMaxPoolSize(n)
-            .setHandler(new ThreadPoolExecutor.CallerRunsPolicy())
-            .build();
+    private final OutputConfig outputConfig;
 
-
-
-    @Override
-    public void run(ApplicationArguments args) throws Exception {
-        TimeInterval interval = DateUtil.timer();
-        // 初始化
-        String rulePath = FileUtils.ROOT_PATH + File.separator + "rule" + File.separator;
-        File allRule = FileUtils.createFile(rulePath + "all.txt");
-        File adghRule = FileUtils.createFile(rulePath + "adgh.txt");
-        File hostsRule = FileUtils.createFile(rulePath + "hosts.txt");
-
-        BloomFilter<String> filter = BloomFilter.create(Funnels.stringFunnel(Charset.defaultCharset()), 100000, 0.001);
-        //远程规则
-        ruleConfig.getRemote().stream()
-                .filter(StrUtil::isNotBlank)
-                .map(URLUtil::normalize)
-                .forEach(e -> executor.execute(new RemoteRuleThread(allRule, adghRule, hostsRule, e, filter)));
-        //本地规则
-        ruleConfig.getLocal().stream()
-                .filter(StrUtil::isNotBlank)
-                .map(e -> rulePath + e)
-                .forEach(e -> executor.execute(new LocalRuleThread(allRule, adghRule, hostsRule, e, filter)));
-
-        while (true) {
-            if (executor.getActiveCount() > 0) {
-                log.info("working...");
-                ThreadUtil.safeSleep(1000);
-            } else {
-                log.info("Done! {} ms", interval.intervalMs());
-                System.exit(0);
-            }
-
-        }
-    }
 
     public static void main(String[] args) {
         SpringApplication.run(AdgRuleApplication.class, args);
+    }
+
+    @Bean
+    ApplicationRunner ruleRunner() {
+        return args -> {
+            if (ruleConfig.isEmpty() || outputConfig.isEmpty()) {
+                log.warn("未配置规则或输出文件");
+                return;
+            }
+            //建立文件
+            Map<String, BufferedOutputStream> fileStream = outputConfig.getFiles().keySet().stream()
+                    .map(fileName -> Map.entry(fileName,
+                            RuleUtil.createFile(outputConfig.getPath(), fileName, outputConfig.getFileHeader())))
+                    .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
+            Map<RuleType, Set<BufferedOutputStream>> typeStreamMap = new ConcurrentHashMap<>();
+            outputConfig.getFiles().forEach((fileName, types) ->
+                    types.forEach(type -> RuleUtil.safePut(typeStreamMap, type, fileStream.get(fileName))));
+
+            //处理规则
+            ruleConfig.getRuleMap().forEach((type, set) ->
+                    set.forEach(rule -> RuleHandler.getHandler(type).handle(rule, typeStreamMap)));
+        };
     }
 }
