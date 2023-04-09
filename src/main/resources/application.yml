@@ -6,44 +6,7 @@ rule:
 
   #远程规则
   remote:
-    - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
-    - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
-    - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
-    - 'https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt' #AdGuard DNS filter
-    - 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
-    - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
-    - 'https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker/data/hosts/spy.txt' #WindowsSpyBlocker
-    - 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt' #HalfLife（pc）
-    - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt' #Adgk
-    - 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
-    - 'https://anti-ad.net/easylist.txt' #anti-ad AdGuardHome
-    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt' #BlueSkyXN/AdGuardHomeRules
-    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt'
-    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt'
-    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt'
-    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt'
-    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt'
-    - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ubcn.txt'
-    - 'https://raw.githubusercontent.com/emCupid/adg_cn/master/adg_emCupid.txt'  #emCupid/adg_cn
-    - 'https://raw.githubusercontents.com/Silentely/AdBlock-Acceleration/main/AdGuard_Simplified_Domain_Names_Filter.txt'   #/Silentely/AdBlock-Acceleration
-    - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt' #Adblock-Plus-Rule
-    - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt'
-    - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt'
-    - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt'
-    - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt'
-    - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt'
-    - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt'
-    - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt'
-    - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt'
-    - 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' 
-    - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' 
-    - 'https://cats-team.github.io/AdRules/adblock.txt' 
-    - 'https://ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' 
-    - 'https://p.xxoo.skin/w.txt' 
-    - 'https://file.trli.club:2087/github/Accelerate-Hosts.txt'
-    - 'https://www.trli.club/ad-hosts/ad-hosts-sqlist/ad-adguardhome.txt'
-    - 'https://www.trli.club/ad-hosts/ad-hosts-sqlist/ad-adguardhome-dnstype.txt'
-    - 'https://www.trli.club/ad-hosts/ad-hosts-sqlist/ad-hosts.txt'
+    
     - 'https://www.trli.club/ad-hosts/ad-hosts-pro/ad-adguardhome-dnstype.txt'
     - 'https://file.trli.club:2087/ad-youtube-hosts/ad-youtube-adguardhome.txt'
     - 'https://raw.githubusercontents.com/Silentely/AdBlock-Acceleration/main/ADgk.txt'
