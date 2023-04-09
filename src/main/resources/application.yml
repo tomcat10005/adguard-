@@ -37,7 +37,7 @@ application:
       [xndeye Adblock List]
       ! Title: ${name}
       ! Last Modified: ${date}
-      ! Homepage: https://github.com/xndeye/adblock_list
+      ! Homepage: https://github.com/tomcat10005/adguard-/
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
       all.txt: #输出文件名
