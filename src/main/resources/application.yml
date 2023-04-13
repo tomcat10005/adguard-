@@ -29,6 +29,20 @@ application:
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt' #AWAvenue-Adblock-Rule
       - 'https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt' #halflife-list
       - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt'
+      - 'https://big.oisd.nl/'
+      - 'https://nsfw.oisd.nl/'
+      - 'https://anti-ad.net/easylist.txt'
+      - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt'
+      - ' https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt'
+      - 'https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt'
+      - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts'
+      - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts'
+      - ' https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt'
+      - ' https://raw.hellogithub.com/hosts'
+     
+      
+     
+
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'private.txt'
