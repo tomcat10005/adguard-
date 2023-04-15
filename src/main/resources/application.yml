@@ -39,8 +39,12 @@ application:
       - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts'
       - ' https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt'
       - ' https://raw.hellogithub.com/hosts'
-     
-      
+      - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt'
+      - 'https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt'
+      - 'https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/all.txt'
+      - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt'
+      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt'
+      - 'https://github.com/AdAway/adaway.github.io/blob/master/hosts.txt'
      
 
     #本地规则
