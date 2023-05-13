@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-05-13 00:11:09
+! Last Modified: 2023-05-13 08:45:04
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -22247,7 +22247,7 @@
 185.199.110.153               github.io
 140.82.114.21                 education.github.com
 140.82.113.22                 collector.github.com
-13.107.226.40                 vscode.dev
+13.107.253.40                 vscode.dev
 185.199.108.133               github.map.fastly.net
 185.199.109.154               github.githubassets.com
 151.101.129.194               github.global.ssl.fastly.net
