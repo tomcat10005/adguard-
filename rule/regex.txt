@@ -1,27 +1,27 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-07-15 00:12:49
+! Last Modified: 2023-07-15 09:00:17
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
 ~Prebid.js
-## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
-@@||ulog*.*.com^$important
-@@||p*-ppx.byteimg.com^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
 ||get-me-wow.
 ||ejghgjhhgadcdchjaada.ru.^
-## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
-||mishop.pandora.xiaomi.com.^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
 ||util-*.simply-hentai.com^
 ||centent.streamp1ay.
 ||cas.*.criteo.com^
 ||cintent.streanplay.
+## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
+@@||ulog*.*.com^$important
+@@||p*-ppx.byteimg.com^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
+## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
+||mishop.pandora.xiaomi.com.^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
 ||sax*.sina.
 ||adi*.cnool.net^
@@ -484,68 +484,62 @@ analytics-*.aasaam.com
 ||4adtf.com.^
 ||v*.sitecounter.site^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt
-cookie_meldung.js^
-eurail_responsive_law_cookie_banner.js^
-cookie_choices.min.js^
-jquery-eu-cookie-law-popup*
-cookie_acceptance_modal.js^
-cookie_law.js^
-cookiePolicyEUPopin*
-eu_cookie_banner.js^
-stgowan.com||log-api.pangolin-sdk-toutiao-b.com^
-informacja_cookies.js^
-outlook.live.com._6tqjFb_HmyQup_NPe6dhC
-flipdish-cookie-consent*
+||liveweb*.msstatic.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||js.*2023*.live^
+||ads*-normal*.zijieapi.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+||js.*2023*.xyz^
+||log*-normal-lq.toutiaoapi.com^
+||access*.tpns.tencent.com^
+||163487*.qmgmw.com^
+||bjkedv*.xyz^
+stgowan.com[Adblock Plus 2.0]
+||access.pangolin-sdk-toutiao-*.com^
+||gtlpa*.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||gamenguide.com*adbk
 ||itechpost.com*adbk
 ## 👇This Part Merge from: https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt
-||liveweb*.msstatic.com^
-||icast.
-||gg.
-||log-api.pangolin-sdk-toutiao-*.com^
-www.zhzzx.com[Adblock Plus 2.0]
-||cnzz.
-||ads*-normal*.zijieapi.com^
-||api-access.pangolin-sdk-toutiao-*.com^
-||log*-normal-lq.toutiaoapi.com^
-||beacon.
-||access*.tpns.tencent.com^
-||adpic.
-||biz5.
-||admaster.
-||access.pangolin-sdk-toutiao-*.com^
-||googleadservices.
-||adsame.
+||sf*-fe-tos.pglstatp-toutiao.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||thezbpe5*.xyz^
+||sf*-be-pack.pglstatp-toutiao.com^
+||ulog*.*^
+||sd.yhzzzs*.com^
+||tnc*.zijieapi.com^
+||s*-fe-scm.pglstatp-toutiao.com^
+||opnked*.xyz^
+||transit*.wslog.chinanetcenter.com^
+||www.xxmh*.com^
+||p26.gejulm*.com^
+||polaris*-normal-lq.zijieapi.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt
+||zbc6hye*.xyz^
+||zazgiyoh*.world^
+||zcchyr*.xyz^
+||zabdybod*.club^
+||yhsfsdv*.com^
+||zaqlovh*.xyz^
+||zazgiyoh*.xyz^
+||zcchyw*.xyz^
+||zazgbqg*.xyz^
+||zahrvfbd*.xyz^
+||zbc6hy*.live^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||fapnado.*.php|
 Banner468x60
-## 👇This Part Merge from: https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt
-||sf*-fe-tos.pglstatp-toutiao.com^
-||s*-fe-scm.pglstatp-toutiao.com^
-||union.
-||transit*.wslog.chinanetcenter.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||s*a.pstatp.com^
-||sax.sina.
-||sf*-be-pack.pglstatp-toutiao.com^
-||ulog*.*^
-||polaris*-normal-lq.zijieapi.com^
-||saxs.sina.
-||tnc*.zijieapi.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt
-||xmindchina.
-## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-rgmechanicsgames.com*VPN.exe
-||ads*.dfiles.eu^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-||ads*.dfiles.ru^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
 728x90.jpg|
 @@||adobeid-*.services.adobe.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||ads*.opensubtitles.org^
+rgmechanicsgames.com*VPN.exe
+||ads*.dfiles.eu^
+||ads*.depositfiles.com^
+||ads*.depositfiles.org^
+||ads*.dfiles.ru^
 @@||cdn*.porn300.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 ||pagead*.google.com^
