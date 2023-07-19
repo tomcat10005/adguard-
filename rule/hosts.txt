@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-07-19 09:43:58
+! Last Modified: 2023-07-19 16:13:03
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -9682,46 +9682,6 @@
 0.0.0.0 md.tvzhe.com
 0.0.0.0 zzsdtzb.com
 0.0.0.0 c1.ifengimg.com
-## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-140.82.113.26                 live.github.com
-185.199.110.153               githubstatus.com
-185.199.111.133               avatars5.githubusercontent.com
-52.217.74.140                 github-production-release-asset-2e65be.s3.amazonaws.com
-185.199.111.133               github.map.fastly.net
-140.82.114.17                 github.community
-185.199.111.133               raw.githubusercontent.com
-185.199.110.154               github.githubassets.com
-185.199.111.133               camo.githubusercontent.com
-140.82.114.3                  gist.github.com
-192.0.66.2                    github.blog
-151.101.1.194                 github.global.ssl.fastly.net
-140.82.112.22                 collector.github.com
-185.199.111.133               favicons.githubusercontent.com
-54.231.169.129                github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.111.133               avatars0.githubusercontent.com
-52.217.39.28                  github-production-user-asset-6210df.s3.amazonaws.com
-140.82.113.4                  github.com
-140.82.112.9                  codeload.github.com
-13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
-140.82.112.22                 central.github.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.111.133               media.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
-185.199.111.133               avatars.githubusercontent.com
-140.82.113.25                 alive.github.com
-185.199.111.133               objects.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.110.153               github.io
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               cloud.githubusercontent.com
-13.107.253.40                 vscode.dev
-52.217.74.225                 github-com.s3.amazonaws.com
-185.199.110.153               assets-cdn.github.com
-140.82.112.22                 education.github.com
-140.82.113.6                  api.github.com
-185.199.111.133               user-images.githubusercontent.com
-52.217.135.33                 github-cloud.s3.amazonaws.com
 ## 👇This Part Merge from: https://someonewhocares.org/hosts/zero/hosts
 0.0.0.0 surfindave.com
 0.0.0.0 adserver.cams.com
@@ -11490,6 +11450,7 @@
 0.0.0.0 bimg.abv.bg
 0.0.0.0 coinurl.com
 0.0.0.0 r6.romeflirt.com
+0.0.0.0 tryanimalemale.com
 0.0.0.0 news-37876-mshome.com
 0.0.0.0 casting.openv.com
 0.0.0.0 newlaunches.uk.intellitxt.com
@@ -14399,7 +14360,6 @@
 0.0.0.0 survey.china.alibaba.com
 0.0.0.0 onclickmega.com
 0.0.0.0 news-news.co
-0.0.0.0 www.tradem.com
 0.0.0.0 httpring.qq.com
 0.0.0.0 imarker.com
 0.0.0.0 suckdude.com
@@ -20653,6 +20613,7 @@
 0.0.0.0 buylevitra.3xforum.ro
 0.0.0.0 ehg-bskyb.hitbox.com
 0.0.0.0 te.nytdigital.com
+0.0.0.0 www.tradem.com
 0.0.0.0 www.poker4spain.com
 0.0.0.0 gu.5.p2l.info
 0.0.0.0 ionamin.1.p2l.info
@@ -20967,6 +20928,46 @@
 0.0.0.0 ehg-hellodirect.hitbox.com
 0.0.0.0 xads.zedo.com
 0.0.0.0 cialis.4.p2l.info
+## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
+140.82.113.26                 live.github.com
+185.199.110.153               githubstatus.com
+185.199.111.133               avatars5.githubusercontent.com
+52.217.74.140                 github-production-release-asset-2e65be.s3.amazonaws.com
+185.199.111.133               github.map.fastly.net
+140.82.114.17                 github.community
+185.199.111.133               raw.githubusercontent.com
+185.199.110.154               github.githubassets.com
+185.199.111.133               camo.githubusercontent.com
+140.82.114.3                  gist.github.com
+192.0.66.2                    github.blog
+151.101.1.194                 github.global.ssl.fastly.net
+140.82.112.22                 collector.github.com
+185.199.111.133               favicons.githubusercontent.com
+54.231.169.129                github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.111.133               avatars0.githubusercontent.com
+52.217.39.28                  github-production-user-asset-6210df.s3.amazonaws.com
+140.82.113.4                  github.com
+140.82.112.9                  codeload.github.com
+13.107.42.16                  pipelines.actions.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+52.216.165.11                 github-cloud.s3.amazonaws.com
+140.82.112.22                 central.github.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.111.133               media.githubusercontent.com
+185.199.111.133               desktop.githubusercontent.com
+185.199.111.133               avatars.githubusercontent.com
+140.82.113.25                 alive.github.com
+185.199.111.133               objects.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.110.153               github.io
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
+13.107.253.40                 vscode.dev
+52.217.74.225                 github-com.s3.amazonaws.com
+185.199.110.153               assets-cdn.github.com
+140.82.112.22                 education.github.com
+140.82.113.6                  api.github.com
+185.199.111.133               user-images.githubusercontent.com
 ## 👇This Part Merge from: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 127.0.0.1 aaid.umeng.com
 127.0.0.1 kpstaticbj.wx.ckjr001.com
