@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-08-21 00:09:53
+! Last Modified: 2023-08-21 08:39:37
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -10698,7 +10698,6 @@
 0.0.0.0 www.larivieracasino.com
 0.0.0.0 ad34.checkm8.com
 0.0.0.0 www.cashcapitalsystem.com
-0.0.0.0 www.top20free.com
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 cnhregisterherald.122.2o7.net
 0.0.0.0 alphalux.oewabox.at
@@ -11851,6 +11850,7 @@
 0.0.0.0 see-back.com
 0.0.0.0 ozonemedia.adbureau.net
 0.0.0.0 metrics.hrblock.com
+0.0.0.0 3dns.adobe.com
 0.0.0.0 xtremelivesupport.com
 0.0.0.0 reskins.fr
 0.0.0.0 themusicnetwork.co.uk
@@ -11992,6 +11992,7 @@
 0.0.0.0 provence-ouyillage.fr
 0.0.0.0 openads.smithmag.net
 0.0.0.0 xcdkb.comfortykive.xyz
+0.0.0.0 3dns-4.adobe.com
 0.0.0.0 bfast.com
 0.0.0.0 applyfix.tech
 0.0.0.0 adpatrof.com
@@ -13814,7 +13815,6 @@
 0.0.0.0 ad.advertstream.com
 0.0.0.0 ad.aquamediadirect.com
 0.0.0.0 www.silcom.com
-0.0.0.0 www.top-free-casino-games.com
 0.0.0.0 tracking.vindicosuite.com
 0.0.0.0 www.mudfall.com
 0.0.0.0 floridat.app.ur.gcion.com
@@ -14325,7 +14325,6 @@
 0.0.0.0 hightrafficads.com
 0.0.0.0 tongji.baidu.com
 0.0.0.0 kithrup.matchlogic.com
-0.0.0.0 www.topconsumergifts.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 ccb.myzen.co.uk
 0.0.0.0 unclechunk.com
@@ -14377,6 +14376,7 @@
 0.0.0.0 filezilla.fr
 0.0.0.0 img.liczniki.org
 0.0.0.0 r7mediar.com
+0.0.0.0 3dns-2.adobe.com
 0.0.0.0 www3.click-fr.com
 0.0.0.0 gpaper172.112.2o7.net
 0.0.0.0 scrooge.nbcsandiego.com
@@ -15388,6 +15388,7 @@
 0.0.0.0 123plays.com
 0.0.0.0 gemius.pl
 0.0.0.0 www.aandgwright.plus.com
+0.0.0.0 3dns-1.adobe.com
 0.0.0.0 www.247realmedia.com
 0.0.0.0 lareplubliquedespyrenees.fr
 0.0.0.0 findgoodfood.co
@@ -15446,7 +15447,6 @@
 0.0.0.0 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 car4you.oewabox.at
-0.0.0.0 www.topcashvibes.com
 0.0.0.0 cioco-froll.com
 0.0.0.0 pulpantagraph.112.2o7.net
 0.0.0.0 u.openx.net
@@ -16027,6 +16027,7 @@
 0.0.0.0 s5.addthis.com
 0.0.0.0 jgen26.cjt1.net
 0.0.0.0 demetnagement.com
+0.0.0.0 3dns-3.adobe.com
 0.0.0.0 counter48.bravenet.com
 0.0.0.0 karriere.oewabox.at
 0.0.0.0 cdn.acloudvideos.com
@@ -17090,7 +17091,6 @@
 0.0.0.0 webresourcer.com
 0.0.0.0 protection.NZpolice.com
 0.0.0.0 sworkitads.herokuapp.com
-0.0.0.0 www.tlauder.f9.co.uk
 0.0.0.0 tracking.foxnews.com
 0.0.0.0 ads.democratandchronicle.com
 0.0.0.0 fabryka-nagrod.com
@@ -20075,6 +20075,7 @@
 0.0.0.0 yx-in-f108.1e100.net
 0.0.0.0 ehg-affinitynet.hitbox.com
 0.0.0.0 cash-advance.now-cash.com
+0.0.0.0 www.top-free-casino-games.com
 0.0.0.0 hydrocodone.visa-usa.ru
 0.0.0.0 meridia.1.p2l.info
 0.0.0.0 ehg-crain.hitbox.com
@@ -20404,6 +20405,7 @@
 0.0.0.0 w175.hitbox.com
 0.0.0.0 bbs.ws
 0.0.0.0 buy-cialis-online.iscool.nl
+0.0.0.0 www.topcashvibes.com
 0.0.0.0 w138.hitbox.com
 0.0.0.0 www30a3-orig.glam.com
 0.0.0.0 w115.hitbox.com
@@ -20562,6 +20564,7 @@
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 buy-xanax.hut1.ru
 0.0.0.0 www.users.dialstart.net
+0.0.0.0 www.topconsumergifts.com
 0.0.0.0 www.traveladvertising.com
 0.0.0.0 pa.5.p2l.info
 0.0.0.0 y1.extreme-dm.com
@@ -20701,6 +20704,7 @@
 0.0.0.0 x.interia.pl
 0.0.0.0 search4you.50webs.com
 0.0.0.0 lexapro.4.p2l.info
+0.0.0.0 www.top20free.com
 0.0.0.0 w13.hitbox.com
 0.0.0.0 zc1.zeroredirect11.com
 0.0.0.0 cialis-store.shengen.ru
@@ -20794,6 +20798,7 @@
 0.0.0.0 wwa.hitbox.com
 0.0.0.0 ads.hitbox.com
 0.0.0.0 yourgiftzone.com
+0.0.0.0 www.tlauder.f9.co.uk
 0.0.0.0 ehg-verizoncommunications.hitbox.com
 0.0.0.0 oascentral.discovery.com
 0.0.0.0 cialis.1.p2l.info
@@ -20956,7 +20961,6 @@
 185.199.111.133               avatars0.githubusercontent.com
 140.82.112.9                  codeload.github.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-54.231.132.97                 github-production-user-asset-6210df.s3.amazonaws.com
 140.82.114.25                 live.github.com
 185.199.111.133               avatars1.githubusercontent.com
 140.82.112.21                 collector.github.com
@@ -20973,6 +20977,7 @@
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 13.107.253.40                 vscode.dev
+52.216.104.219                github-production-user-asset-6210df.s3.amazonaws.com
 185.199.110.153               assets-cdn.github.com
 185.199.111.133               user-images.githubusercontent.com
 140.82.112.18                 github.community
