@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-09-08 00:11:44
+! Last Modified: 2023-09-08 08:40:16
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -20944,9 +20944,9 @@
 0.0.0.0 xads.zedo.com
 0.0.0.0 cialis.4.p2l.info
 ## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-16.182.67.121                 github-production-user-asset-6210df.s3.amazonaws.com
 54.231.202.41                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 140.82.113.21                 collector.github.com
+52.217.132.121                github-production-release-asset-2e65be.s3.amazonaws.com
 140.82.112.6                  api.github.com
 185.199.111.133               avatars5.githubusercontent.com
 185.199.111.133               github.map.fastly.net
@@ -20975,13 +20975,13 @@
 185.199.111.133               desktop.githubusercontent.com
 140.82.113.26                 alive.github.com
 185.199.111.133               avatars.githubusercontent.com
+54.231.232.169                github-cloud.s3.amazonaws.com
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
-52.217.254.41                 github-production-release-asset-2e65be.s3.amazonaws.com
 13.107.226.40                 vscode.dev
 185.199.111.133               cloud.githubusercontent.com
-52.216.221.65                 github-cloud.s3.amazonaws.com
+52.217.105.180                github-production-user-asset-6210df.s3.amazonaws.com
 185.199.111.133               user-images.githubusercontent.com
 ## 👇This Part Merge from: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 127.0.0.1 aaid.umeng.com
