@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-09-14 00:11:37
+! Last Modified: 2023-09-14 08:40:19
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -14664,7 +14664,6 @@
 0.0.0.0 iesnare.com		# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 adserver.sextracker.com
 0.0.0.0 ca.adserver.yahoo.com
-0.0.0.0 www.tao123.com
 0.0.0.0 buresova-obrazy.wz.cz
 0.0.0.0 www.coinzilla.io
 0.0.0.0 adserver.matchcraft.com
@@ -18204,6 +18203,7 @@
 0.0.0.0 top.oewabox.at
 0.0.0.0 scegli-vinci.it
 0.0.0.0 www.adjmps.com
+0.0.0.0 account-review.com
 0.0.0.0 giftcardchallenge.com
 0.0.0.0 letyoufall.com
 0.0.0.0 adserver.colleges.com
@@ -20944,6 +20944,7 @@
 0.0.0.0 ehg-hellodirect.hitbox.com
 0.0.0.0 xads.zedo.com
 0.0.0.0 cialis.4.p2l.info
+0.0.0.0 www.tao123.com
 ## 👇This Part Merge from: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 127.0.0.1 aaid.umeng.com
 127.0.0.1 kpstaticbj.wx.ckjr001.com
