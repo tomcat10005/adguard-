@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-09-23 00:11:28
+! Last Modified: 2023-09-23 08:39:35
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -10088,7 +10088,6 @@
 0.0.0.0 aritzal.com
 0.0.0.0 trc.taboolasyndication.com
 0.0.0.0 compe-nickel.fr
-0.0.0.0 www.sweetsforfree.com
 0.0.0.0 c7.cembuyukhanli.com
 0.0.0.0 ctnsnet.com
 0.0.0.0 depo.realist.gen.tr
@@ -20122,6 +20121,7 @@
 0.0.0.0 www.softcha.com
 0.0.0.0 lesview.com
 0.0.0.0 x4.lov3.net
+0.0.0.0 www.sweetsforfree.com
 0.0.0.0 ehg-intel.hitbox.com
 0.0.0.0 w17.hitbox.com
 0.0.0.0 youfck.com
