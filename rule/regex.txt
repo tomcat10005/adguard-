@@ -1,28 +1,28 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-10-14 16:10:43
+! Last Modified: 2023-10-15 00:10:17
 ! Homepage: https://github.com/tomcat10005/adguard-/
+## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
+||get-me-wow.
 ## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
 @@||ulog*.*.com^$important
 @@||p*-ppx.byteimg.com^
 ## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
 ||mishop.pandora.xiaomi.com.^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
-||get-me-wow.
-## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
 ||158.247.208.
-||util-*.simply-hentai.com^
 ||23.109.82.
-||centent.streamp1ay.
 ||142.91.159.
 ||cas.*.criteo.com^
 ||23.109.87.
-||cintent.streanplay.
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
+||util-*.simply-hentai.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
+||centent.streamp1ay.
 ||121.204.246.*.gif
 ||vns86.oss-*.aliyuncs.com^
+||cintent.streanplay.
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
@@ -80,8 +80,8 @@
 ||fb_servpub-a.akamaihd.net^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
 |71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||solutions.|pages.indigovision.com^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
+||solutions.|pages.indigovision.com^
 ||stats.zone-annuaire.
 ||stat.*.v-56.com^
 ||matt.mercadolibre.
@@ -495,6 +495,8 @@ analytics-*.aasaam.com
 ||poptraf.
 ||4adtf.com.^
 ||v*.sitecounter.site^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||spryptvqguhpwt^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt
 ||go-mpulse^
 ||163487*.qmgmw.com^
@@ -504,32 +506,29 @@ stgowan.com[Adblock Plus 2.0]
 ||ads*-normal*.zijieapi.com^
 ||gtlpa*.com^
 ||js.*2023*.xyz^
+## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+||gamenguide.com*adbk
+||itechpost.com*adbk
 ## 👇This Part Merge from: https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt
-||opnked*.xyz^
-||thezbpe5*.xyz^
-||p26.gejulm*.com^
-||sd.yhzzzs*.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
-||widgets.*.webengage.com^
-728x90.jpg|
-||fapnado.*.php|
-Banner468x60
-## 👇This Part Merge from: https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt
-||zbc6hye*.xyz^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
-||www.xxmh*.com^
 ||zabdybod*.club^
 ||yhsfsdv*.com^
+||thezbpe5*.xyz^
 ||zaqlovh*.xyz^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
 ||zazgbqg*.xyz^
+||sd.yhzzzs*.com^
+||zbc6hye*.xyz^
+||opnked*.xyz^
+||www.xxmh*.com^
+||p26.gejulm*.com^
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
-||gamenguide.com*adbk
-||spryptvqguhpwt^
+||fapnado.*.php|
+Banner468x60
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
@@ -537,7 +536,8 @@ rgmechanicsgames.com*VPN.exe
 ||ads*.depositfiles.org^
 ||ads*.dfiles.ru^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
-||itechpost.com*adbk
+||widgets.*.webengage.com^
+728x90.jpg|
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||ads*.opensubtitles.org^
 @@||adobeid-*.services.adobe.com^
