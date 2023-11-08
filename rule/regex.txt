@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-11-08 16:11:57
+! Last Modified: 2023-11-09 00:11:55
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
 @@||ulog*.*.com^$important
@@ -75,12 +75,23 @@
 ||servo-report.dvdfab.
 ||tracker.twenga.
 ||fb_servpub-a.akamaihd.net^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||analytics-api.dvdfab.
 ||aff*.kolektiva.net^
 ||pixel.archive.
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
+## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||solutions.|pages.indigovision.com^
+## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
+||stats.zone-annuaire.
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||onetrust.
+||sta.zone-telechargement.
+||stats*.credit-cooperatif.coop^
+||acookie.*.gif?
+||stats.zone-telechargement.
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
 ||adx.
 ||adx-
@@ -240,17 +251,6 @@ advertisers.js|
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ||tracker*.qcloud.com^
-## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
-||solutions.|pages.indigovision.com^
-## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad-pc.txt
-||stats.zone-annuaire.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||onetrust.
-||sta.zone-telechargement.
-||stats*.credit-cooperatif.coop^
-||acookie.*.gif?
-||stats.zone-telechargement.
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -434,6 +434,7 @@ analytics-*.aasaam.com
 ||log-*.epicdn.me^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
+||ad-*.amazonaws.com^
 ||cdn*.swaxis.com^
 ||log*.aliyuncs.com^
 ||icq-window.
@@ -467,6 +468,7 @@ analytics-*.aasaam.com
 ||popuptraf.
 ||host*.rvshare.com^
 ||events-*.op.hicloud.com^
+||ad*.mtgglobals.com^
 ||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
@@ -545,6 +547,8 @@ rgmechanicsgames.com*VPN.exe
 ## 👇This Part Merge from: https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
+728x90.jpg|
 ## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||api-access.pangolin-sdk-toutiao*.com^
@@ -555,5 +559,3 @@ rgmechanicsgames.com*VPN.exe
 ||p*-lm.adkwai.com^
 ||ad.*.xiaomi.com^
 ||w*.*skwai.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
-728x90.jpg|
