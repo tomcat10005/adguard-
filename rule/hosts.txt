@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-12-05 08:44:34
+! Last Modified: 2023-12-05 16:12:37
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -11137,39 +11137,39 @@
 140.82.113.21                 collector.github.com
 185.199.110.153               githubstatus.com
 52.217.119.65                 github-production-user-asset-6210df.s3.amazonaws.com
-185.199.108.133               raw.githubusercontent.com
 13.107.213.40                 vscode.dev
 140.82.112.6                  api.github.com
-185.199.111.133               avatars5.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
 52.216.154.164                github-cloud.s3.amazonaws.com
 140.82.114.9                  codeload.github.com
 185.199.108.133               media.githubusercontent.com
 140.82.112.4                  gist.github.com
-185.199.108.133               avatars1.githubusercontent.com
 185.199.110.154               github.githubassets.com
-185.199.111.133               camo.githubusercontent.com
 192.0.66.2                    github.blog
 185.199.108.133               avatars4.githubusercontent.com
 151.101.1.194                 github.global.ssl.fastly.net
 140.82.114.25                 alive.github.com
-185.199.108.133               user-images.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
 185.199.108.133               desktop.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
 140.82.114.26                 live.github.com
+185.199.110.133               avatars.githubusercontent.com
 185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
+185.199.109.153               github.io
+185.199.110.133               avatars2.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
 140.82.112.21                 education.github.com
 140.82.112.17                 github.community
 54.231.224.177                github-production-release-asset-2e65be.s3.amazonaws.com
 185.199.108.133               github.map.fastly.net
 52.217.159.33                 github-com.s3.amazonaws.com
 185.199.110.153               assets-cdn.github.com
-185.199.111.153               github.io
+185.199.111.133               user-images.githubusercontent.com
 140.82.114.3                  github.com
-185.199.108.133               avatars2.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
 ## 👇This Part Merge from: https://someonewhocares.org/hosts/zero/hosts
 0.0.0.0 surfindave.com
@@ -12389,6 +12389,7 @@
 0.0.0.0 www.cig-arrete.com
 0.0.0.0 a.adorika.net
 0.0.0.0 www.bagslap.com
+0.0.0.0 resetcibc-logincibc.com
 0.0.0.0 select001.adtech.us
 0.0.0.0 overturecomvista.112.2o7.net
 0.0.0.0 www.adsrvr.org
@@ -17927,7 +17928,6 @@
 0.0.0.0 ads.cybersales.cz
 0.0.0.0 protection.GApolice.com
 0.0.0.0 admatch-syndication.mochila.com
-0.0.0.0 www.shoppingminds.net
 0.0.0.0 popec.net
 0.0.0.0 greenwatermovement.com
 0.0.0.0 rs1.qq.com
@@ -21663,6 +21663,7 @@
 0.0.0.0 nasonex.1.p2l.info
 0.0.0.0 zemgo.com
 0.0.0.0 ehg.hitbox.com
+0.0.0.0 www.shoppingminds.net
 0.0.0.0 24x7.soliday.org
 0.0.0.0 in.yimg.com
 0.0.0.0 oascentral.seacoastonline.com
