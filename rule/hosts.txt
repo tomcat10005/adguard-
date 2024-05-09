@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-05-09 00:12:43
+! Last Modified: 2024-05-09 08:44:10
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -11133,10 +11133,8 @@
 127.0.0.1 www3.smartadserver.com
 ## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
 140.82.112.25                 alive.github.com
-16.182.97.209                 github-cloud.s3.amazonaws.com
-54.231.236.241                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.228.217                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.111.133               avatars5.githubusercontent.com
-52.216.132.179                github-com.s3.amazonaws.com
 185.199.111.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
 185.199.111.133               raw.githubusercontent.com
@@ -11144,11 +11142,14 @@
 185.199.111.133               camo.githubusercontent.com
 192.0.66.2                    github.blog
 140.82.114.4                  gist.github.com
+52.216.218.121                github-production-user-asset-6210df.s3.amazonaws.com
 185.199.111.133               favicons.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.109.153               assets-cdn.github.com
+52.217.232.249                github-cloud.s3.amazonaws.com
 185.199.111.133               avatars1.githubusercontent.com
+16.182.38.201                 github-com.s3.amazonaws.com
 140.82.112.26                 live.github.com
 140.82.112.22                 central.github.com
 140.82.114.5                  api.github.com
@@ -11168,7 +11169,6 @@
 151.101.193.194               github.global.ssl.fastly.net
 140.82.112.22                 education.github.com
 185.199.111.133               user-images.githubusercontent.com
-52.217.18.52                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 140.82.114.3                  github.com
 ## 👇This Part Merge from: https://someonewhocares.org/hosts/zero/hosts
 0.0.0.0 surfindave.com
