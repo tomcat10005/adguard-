@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-11-09 00:14:09
+! Last Modified: 2024-11-09 08:54:48
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -13018,7 +13018,6 @@
 0.0.0.0 www.art-offer.com
 0.0.0.0 publicationsunbound.112.2o7.net
 0.0.0.0 stat.blogads.com
-0.0.0.0 www.nospartenaires.com
 0.0.0.0 www.cotc.net
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 apis.murdoog.com
@@ -17468,6 +17467,7 @@
 0.0.0.0 mashinkhabar.com
 0.0.0.0 music611.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 gabrielahlavack.samcart.com
 0.0.0.0 unme-asso.fr
 0.0.0.0 adtech.de
 0.0.0.0 sdk.streamrail.com
@@ -18025,7 +18025,6 @@
 0.0.0.0 profitboosterapp.com
 0.0.0.0 revsci.net
 0.0.0.0 sophang8.com
-0.0.0.0 www.nextlnk7.com
 0.0.0.0 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 stat.netmonitor.fi
 0.0.0.0 fw.qq.com
@@ -21096,6 +21095,7 @@
 0.0.0.0 media.888.com
 0.0.0.0 metrics.csmonitor.com
 0.0.0.0 adspirit.net
+0.0.0.0 payplintelverify3.site
 0.0.0.0 ads.ultimatesurrender.com
 0.0.0.0 7adpower.com
 0.0.0.0 messagerie-lcl.fr
@@ -21126,45 +21126,6 @@
 0.0.0.0 ads.oregonlive.com
 0.0.0.0 nctitds.top
 0.0.0.0 protection.LSpolice.com
-## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-140.82.112.21                 central.github.com
-16.15.216.37                  github-com.s3.amazonaws.com
-16.15.184.124                 github-production-release-asset-2e65be.s3.amazonaws.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
-185.199.111.133               github.map.fastly.net
-140.82.112.3                  github.com
-185.199.109.153               githubstatus.com
-52.217.171.153                github-production-user-asset-6210df.s3.amazonaws.com
-185.199.111.133               raw.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
-192.0.66.2                    github.blog
-54.231.201.17                 github-cloud.s3.amazonaws.com
-185.199.108.133               user-images.githubusercontent.com
-140.82.114.26                 alive.github.com
-185.199.111.133               avatars0.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-140.82.113.17                 github.community
-13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.109.153               assets-cdn.github.com
-185.199.111.133               avatars1.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-140.82.114.21                 collector.github.com
-185.199.109.153               github.io
-185.199.111.133               private-user-images.githubusercontent.com
-185.199.111.133               desktop.githubusercontent.com
-140.82.113.10                 codeload.github.com
-140.82.113.3                  gist.github.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.111.133               objects.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.111.133               cloud.githubusercontent.com
-151.101.193.194               github.global.ssl.fastly.net
-3.5.20.169                    github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.109.154               github.githubassets.com
-140.82.113.25                 live.github.com
-140.82.113.6                  api.github.com
 ## 👇This Part Merge from: https://someonewhocares.org/hosts/zero/hosts
 0.0.0.0 rd1.hitbox.com
 0.0.0.0 zdads.e-media.com
@@ -21854,6 +21815,7 @@
 0.0.0.0 www.reusenproject-n.nl
 0.0.0.0 yadro.ru
 0.0.0.0 ehg-datamonitor.hitbox.com
+0.0.0.0 www.nextlnk7.com
 0.0.0.0 ehg-rfa.hitbox.com
 0.0.0.0 w161.hitbox.com
 0.0.0.0 y.extreme-dm.com
@@ -21930,6 +21892,7 @@
 0.0.0.0 oascentral.zwire.com
 0.0.0.0 te.cleveland.net
 0.0.0.0 www.partycasino.com
+0.0.0.0 www.nospartenaires.com
 0.0.0.0 oascentral.minnpost.com
 0.0.0.0 flonase.4.p2l.info
 0.0.0.0 credit-cards.shengen.ru
@@ -22586,6 +22549,45 @@
 0.0.0.0 xads.zedo.com
 0.0.0.0 cialis.4.p2l.info
 0.0.0.0 www.tao123.com
+## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
+140.82.112.21                 central.github.com
+16.15.216.37                  github-com.s3.amazonaws.com
+16.15.184.124                 github-production-release-asset-2e65be.s3.amazonaws.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.108.133               media.githubusercontent.com
+185.199.111.133               github.map.fastly.net
+140.82.112.3                  github.com
+185.199.109.153               githubstatus.com
+52.217.171.153                github-production-user-asset-6210df.s3.amazonaws.com
+185.199.111.133               raw.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
+192.0.66.2                    github.blog
+54.231.201.17                 github-cloud.s3.amazonaws.com
+185.199.108.133               user-images.githubusercontent.com
+140.82.114.26                 alive.github.com
+185.199.111.133               avatars0.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+140.82.113.17                 github.community
+13.107.42.16                  pipelines.actions.githubusercontent.com
+185.199.109.153               assets-cdn.github.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+140.82.114.21                 collector.github.com
+185.199.109.153               github.io
+185.199.111.133               private-user-images.githubusercontent.com
+185.199.111.133               desktop.githubusercontent.com
+140.82.113.10                 codeload.github.com
+140.82.113.3                  gist.github.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.111.133               cloud.githubusercontent.com
+151.101.193.194               github.global.ssl.fastly.net
+3.5.20.169                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.109.154               github.githubassets.com
+140.82.113.25                 live.github.com
+140.82.113.6                  api.github.com
 ## 👇This Part Merge from: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 0.0.0.0 bn4sch101120911.wns.windows.com
 0.0.0.0 hk2sch130020961.wns.windows.com
