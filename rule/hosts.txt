@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-04-10 16:17:43
+! Last Modified: 2025-04-11 00:16:19
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -21126,37 +21126,6 @@
 0.0.0.0 ads.oregonlive.com
 0.0.0.0 nctitds.top
 0.0.0.0 protection.LSpolice.com
-## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-185.199.110.133               avatars0.githubusercontent.com
-140.82.113.21                 collector.github.com
-16.182.106.249                github-com.s3.amazonaws.com
-140.82.112.3                  github.com
-185.199.110.133               avatars4.githubusercontent.com
-140.82.114.18                 github.community
-192.0.66.2                    github.blog
-185.199.110.133               avatars1.githubusercontent.com
-54.231.202.225                github-production-release-asset-2e65be.s3.amazonaws.com
-185.199.110.133               desktop.githubusercontent.com
-185.199.109.153               assets-cdn.github.com
-185.199.110.133               camo.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-185.199.110.133               avatars.githubusercontent.com
-140.82.112.22                 central.github.com
-3.5.2.81                      github-cloud.s3.amazonaws.com
-16.182.38.25                  github-production-user-asset-6210df.s3.amazonaws.com
-185.199.110.133               avatars2.githubusercontent.com
-140.82.113.10                 codeload.github.com
-140.82.113.3                  gist.github.com
-140.82.113.25                 alive.github.com
-185.199.110.133               github.map.fastly.net
-140.82.112.5                  api.github.com
-185.199.110.133               cloud.githubusercontent.com
-52.216.48.33                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-151.101.193.194               github.global.ssl.fastly.net
-185.199.110.133               avatars3.githubusercontent.com
-185.199.109.154               github.githubassets.com
-185.199.111.153               github.io
 ## 👇This Part Merge from: https://someonewhocares.org/hosts/zero/hosts
 0.0.0.0 rd1.hitbox.com
 0.0.0.0 zdads.e-media.com
@@ -22606,6 +22575,37 @@
 0.0.0.0 xads.zedo.com
 0.0.0.0 cialis.4.p2l.info
 0.0.0.0 www.tao123.com
+## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
+185.199.110.133               avatars0.githubusercontent.com
+140.82.113.21                 collector.github.com
+16.182.106.249                github-com.s3.amazonaws.com
+140.82.112.3                  github.com
+185.199.110.133               avatars4.githubusercontent.com
+140.82.114.18                 github.community
+192.0.66.2                    github.blog
+185.199.110.133               avatars1.githubusercontent.com
+54.231.202.225                github-production-release-asset-2e65be.s3.amazonaws.com
+185.199.110.133               desktop.githubusercontent.com
+185.199.109.153               assets-cdn.github.com
+185.199.110.133               camo.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.110.133               avatars.githubusercontent.com
+140.82.112.22                 central.github.com
+3.5.2.81                      github-cloud.s3.amazonaws.com
+16.182.38.25                  github-production-user-asset-6210df.s3.amazonaws.com
+185.199.110.133               avatars2.githubusercontent.com
+140.82.113.10                 codeload.github.com
+140.82.113.3                  gist.github.com
+140.82.113.25                 alive.github.com
+185.199.110.133               github.map.fastly.net
+140.82.112.5                  api.github.com
+185.199.110.133               cloud.githubusercontent.com
+52.216.48.33                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+151.101.193.194               github.global.ssl.fastly.net
+185.199.110.133               avatars3.githubusercontent.com
+185.199.109.154               github.githubassets.com
+185.199.111.153               github.io
 ## 👇This Part Merge from: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 0.0.0.0 bn4sch101120911.wns.windows.com
 0.0.0.0 hk2sch130020961.wns.windows.com
