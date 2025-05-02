@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-05-02 16:17:53
+! Last Modified: 2025-05-03 00:16:10
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -11367,6 +11367,7 @@
 0.0.0.0 opsonew3org.sg
 0.0.0.0 ads7.advance.net
 0.0.0.0 protection.TOpolice.com
+0.0.0.0 intelcomasfcmscta.com
 0.0.0.0 gpaper116.112.2o7.net
 0.0.0.0 escape.insites.eu
 0.0.0.0 insightxe.vtsgonline.com
@@ -14365,7 +14366,6 @@
 0.0.0.0 aff.promodeals.nl
 0.0.0.0 insightfirst.com
 0.0.0.0 www.isistech.com.tw
-0.0.0.0 www.myaffiliateprogram.com
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 freedvddept.com
 0.0.0.0 apiapple.com
@@ -22001,6 +22001,7 @@
 0.0.0.0 yourgascards.com
 0.0.0.0 ar.hao123.com
 0.0.0.0 search-phentermine.hpage.net
+0.0.0.0 www.myaffiliateprogram.com
 0.0.0.0 www.zevents.com
 0.0.0.0 www.bestrxpills.com
 0.0.0.0 www.yceml.net
@@ -22577,45 +22578,45 @@
 0.0.0.0 www.tao123.com
 ## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
 140.82.112.21                 central.github.com
-140.82.112.26                 alive.github.com
+140.82.113.26                 live.github.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.110.133               user-images.githubusercontent.com
+140.82.113.21                 collector.github.com
 20.205.243.165                codeload.github.com
 185.199.110.133               avatars4.githubusercontent.com
-140.82.113.21                 api.individual.githubcopilot.com
 192.0.66.2                    github.blog
-140.82.113.21                 education.github.com
+3.5.28.102                    github-com.s3.amazonaws.com
 185.199.110.133               avatars1.githubusercontent.com
-3.5.22.37                     github-cloud.s3.amazonaws.com
-185.199.108.153               github.io
+54.231.202.33                 github-production-release-asset-2e65be.s3.amazonaws.com
 185.199.110.133               desktop.githubusercontent.com
-52.216.60.185                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.106.252                github-production-user-asset-6210df.s3.amazonaws.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
-140.82.114.25                 live.github.com
 185.199.110.133               favicons.githubusercontent.com
+3.5.30.90                     github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.110.133               avatars5.githubusercontent.com
 20.205.243.166                gist.github.com
 20.205.243.168                api.github.com
 185.199.110.133               avatars.githubusercontent.com
-140.82.112.21                 collector.github.com
+185.199.111.153               githubstatus.com
 185.199.110.133               avatars2.githubusercontent.com
-185.199.108.153               githubstatus.com
-3.5.30.137                    github-production-user-asset-6210df.s3.amazonaws.com
+140.82.113.25                 alive.github.com
 185.199.110.133               raw.githubusercontent.com
 185.199.110.133               github.map.fastly.net
 185.199.110.133               private-user-images.githubusercontent.com
 185.199.110.133               cloud.githubusercontent.com
-52.216.50.201                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.112.21                 education.github.com
+140.82.114.21                 api.individual.githubcopilot.com
+140.82.112.17                 github.community
 185.199.108.154               github.githubassets.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.110.133               avatars3.githubusercontent.com
 20.205.243.166                github.com
 185.199.110.133               objects.githubusercontent.com
-16.15.216.134                 github-com.s3.amazonaws.com
+54.231.229.153                github-cloud.s3.amazonaws.com
+185.199.111.153               github.io
 185.199.110.133               media.githubusercontent.com
 13.107.246.73                 vscode.dev  # Timeout
-140.82.112.18                 github.community
 ## 👇This Part Merge from: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 0.0.0.0 bn4sch101120911.wns.windows.com
 0.0.0.0 hk2sch130020961.wns.windows.com
