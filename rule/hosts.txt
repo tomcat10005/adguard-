@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-09-11 09:01:57
+! Last Modified: 2025-09-11 16:18:12
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -3293,7 +3293,6 @@
 0.0.0.0 ad-delivery.net
 0.0.0.0 gstscra.com
 0.0.0.0 members.upc.nl
-0.0.0.0 www.bbelements.com
 0.0.0.0 www.0stats.com
 0.0.0.0 counter15.bravenet.com
 0.0.0.0 euriosport.fr
@@ -3444,6 +3443,7 @@
 0.0.0.0 adserve.profit-smart.com
 0.0.0.0 usatoday1.112.2o7.net
 0.0.0.0 fedup.tv
+0.0.0.0 vcdn.adnxs.com
 0.0.0.0 advertising.bbcworldwide.com
 0.0.0.0 vilagpolgarok.blogspot.hu
 0.0.0.0 stats.absol.co.za
@@ -3549,7 +3549,6 @@
 0.0.0.0 soniksports.fr
 0.0.0.0 adserver-5.ig.com.br
 0.0.0.0 c15.statcounter.com
-0.0.0.0 www.banstex.com
 0.0.0.0 track.msadcenter.pwpn.com
 0.0.0.0 villepariis.fr
 0.0.0.0 viralvideos.tips
@@ -3787,7 +3786,6 @@
 0.0.0.0 bitonclick.com
 0.0.0.0 n5.nskfyl.com
 0.0.0.0 stompebi.link
-0.0.0.0 www.bannersurvey.biz
 0.0.0.0 turdgasm.com
 0.0.0.0 images.intellitxt.com
 0.0.0.0 actu24.online
@@ -4654,6 +4652,7 @@
 0.0.0.0 ph-ad20.focalink.com
 0.0.0.0 serv-canada2024.com
 0.0.0.0 popunder.loading-delivery1.com
+0.0.0.0 t.atpanel.com
 0.0.0.0 openads.dimcab.com
 0.0.0.0 doubleclick.net
 0.0.0.0 marriottinternationa.tt.omtrdc.net
@@ -4795,6 +4794,7 @@
 0.0.0.0 djbanners.deadjournal.com
 0.0.0.0 georgewbushcom.112.2o7.net
 0.0.0.0 secure.addthis.com
+0.0.0.0 w.l.qq.com
 0.0.0.0 b.liquidustv.com
 0.0.0.0 media3.popmarker.com
 0.0.0.0 ox-i.zenoviagroup.com
@@ -5023,6 +5023,7 @@
 0.0.0.0 ahzahg6ohb.com
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 ad-411.com
+0.0.0.0 stats.ipinyou.com
 0.0.0.0 downgradeproduct.com
 0.0.0.0 www.admex.com
 0.0.0.0 advplace.com
@@ -7373,6 +7374,7 @@
 0.0.0.0 domain-control.net
 0.0.0.0 ad.moscowtimes.ru
 0.0.0.0 aka.ms-ads.co
+0.0.0.0 static.mediav.com
 0.0.0.0 ad.groupon.net
 0.0.0.0 tsp2002.com
 0.0.0.0 glasstaken.com
@@ -7507,7 +7509,6 @@
 0.0.0.0 ad42digital.checkm8.com
 0.0.0.0 spotchannel02.com
 0.0.0.0 egeszsegespont.hu
-0.0.0.0 www.benhamlyn.plus.com
 0.0.0.0 breakthroughtrend.com
 0.0.0.0 viay2m.112.2o7.net
 0.0.0.0 ad.land.to
@@ -8062,7 +8063,6 @@
 0.0.0.0 fastwebcounter.com
 0.0.0.0 counter.kaspersky.com
 0.0.0.0 adsbb.dfiles.eu
-0.0.0.0 www.bannerconnect.net
 0.0.0.0 ads.designboom.com
 0.0.0.0 screencast-o-matic.fr
 0.0.0.0 scrooge.thedenverchannel.com
@@ -8234,6 +8234,7 @@
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 www.1man1jar.org
 0.0.0.0 adbg.hit.gemius.pl
+0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 e-2dj6wfkiqjcpifp.stats.esomniture.com
 0.0.0.0 poundporter.best
 0.0.0.0 netflixca-updateprofilehelp.com
@@ -9601,7 +9602,6 @@
 0.0.0.0 track.effiliation.com
 0.0.0.0 fb-accounts.com
 0.0.0.0 www.oralse.ca
-0.0.0.0 www.balnakiel.plus.com
 0.0.0.0 www2.counter.bloke.com
 0.0.0.0 actforvictory.112.2o7.net
 0.0.0.0 ads6.advance.net
@@ -9876,6 +9876,7 @@
 0.0.0.0 ad6digital.checkm8.com
 0.0.0.0 adforce.adtech.us
 0.0.0.0 jsn.dt07.net
+0.0.0.0 wangmeng.baidu.com
 0.0.0.0 mini.videostrip.com
 0.0.0.0 protection.PApolice.com
 0.0.0.0 in.paycounter.com
@@ -10300,6 +10301,7 @@
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 computerworldcom.112.2o7.net
 0.0.0.0 ads.almasdarnews.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 gmx.oewabox.at
 0.0.0.0 banners.ims.nl
 0.0.0.0 hurricaneprotection.com
@@ -10408,6 +10410,7 @@
 0.0.0.0 aboardamusement.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 ads.cdnow.com
+0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 ad.nicovideo.jp
 0.0.0.0 www.painolympics.org
@@ -10686,10 +10689,10 @@
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.airfrance.life
 0.0.0.0 bicoinsprofit.com
+0.0.0.0 static.doubleclick.net
 0.0.0.0 ad01.focalink.com
 0.0.0.0 gpaper132.112.2o7.net
 0.0.0.0 www.counter3.sextracker.be
-0.0.0.0 www.bannerads.de
 0.0.0.0 impgb.tradedoubler.com
 0.0.0.0 staticads.btopenworld.com
 0.0.0.0 select002.adtech.us
@@ -10739,12 +10742,10 @@
 0.0.0.0 adserver1.hookyouup.com
 0.0.0.0 testapp.adhood.com
 0.0.0.0 s-adserver.sandbox.cxad.cxense.com
-0.0.0.0 www.awltovhc.com
 0.0.0.0 e-2dj6wjk4amd5mfp.stats.esomniture.com
 0.0.0.0 bnkr8dev.112.2o7.net
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 notifyday.com
-0.0.0.0 www.baba-t.com
 0.0.0.0 e-2dj6wfkiokc5odp.stats.esomniture.com
 0.0.0.0 livreral.fr
 0.0.0.0 office365-us-update.com
@@ -10858,6 +10859,7 @@
 0.0.0.0 jcollegehumor.cjt1.net
 0.0.0.0 cdn.adservingsolutionsinc.com
 0.0.0.0 server-nz.imrworldwide.com
+0.0.0.0 p3p.mmstat.com
 0.0.0.0 tnttv.112.2o7.net
 0.0.0.0 web-check.co
 0.0.0.0 search.addthis.com
@@ -11260,7 +11262,6 @@
 0.0.0.0 player.mediafuse.com
 0.0.0.0 nba.112.2o7.net
 0.0.0.0 photobucket.adnxs.com
-0.0.0.0 www.bannerbackup.com
 0.0.0.0 frnafinance.fr
 0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 adserver.tweakers.net
@@ -11471,7 +11472,6 @@
 0.0.0.0 fbd.de
 0.0.0.0 adimages.mp3.com
 0.0.0.0 photobox-tracking.adalyser.com
-0.0.0.0 www.avenues-inc.com
 0.0.0.0 serve.freegaypix.com
 0.0.0.0 clickrighthere.online
 0.0.0.0 ad-indicator.com
@@ -11630,6 +11630,7 @@
 0.0.0.0 select003.adtech.fr
 0.0.0.0 images1.paycounter.com
 0.0.0.0 emplpoi-store.fr
+0.0.0.0 pos.baidu.com
 0.0.0.0 minecraftt.fr
 0.0.0.0 cdn.usabilitytracker.com
 0.0.0.0 vast.tubemogul.com
@@ -13149,7 +13150,6 @@
 0.0.0.0 www.adserver.co.il
 0.0.0.0 star-iptv.fr
 0.0.0.0 protection.ITpolice.com
-0.0.0.0 www.avsads.com
 0.0.0.0 office-2023.com
 0.0.0.0 bleachbit.com
 0.0.0.0 images.mediago.io
@@ -13285,6 +13285,7 @@
 0.0.0.0 buspirone.1.p2l.info
 0.0.0.0 www.k-macs.ne.jp
 0.0.0.0 www.easyadservice.com
+0.0.0.0 www.bbelements.com
 0.0.0.0 www.text-link-ads.com
 0.0.0.0 w24.hitbox.com
 0.0.0.0 www.justhookup.com
@@ -13483,6 +13484,7 @@
 0.0.0.0 oascentral.chron.com
 0.0.0.0 www.optad360.com
 0.0.0.0 valium.este.ru
+0.0.0.0 www.banstex.com
 0.0.0.0 yepdigital.adk2x.com
 0.0.0.0 www.freeplasmanation.com
 0.0.0.0 soma.1.p2l.info
@@ -13611,6 +13613,7 @@
 0.0.0.0 zemgo.com
 0.0.0.0 ehg.hitbox.com
 0.0.0.0 24x7.soliday.org
+0.0.0.0 www.bannerbackup.com
 0.0.0.0 allegra.1.p2l.info
 0.0.0.0 nordette.1.p2l.info
 0.0.0.0 oascentral.lycos.com
@@ -13680,6 +13683,7 @@
 0.0.0.0 www3.webhostingtalk.com
 0.0.0.0 w128.hitbox.com
 0.0.0.0 imitrex.3.p2l.info
+0.0.0.0 www.bannersurvey.biz
 0.0.0.0 homehre.ifrance.com
 0.0.0.0 sobolev.net.ru
 0.0.0.0 oascentral.investorwords.com
@@ -13772,6 +13776,7 @@
 0.0.0.0 ehg-gatehousemedia.hitbox.com
 0.0.0.0 zulu.r867qq.net
 0.0.0.0 paxil.1.p2l.info
+0.0.0.0 www.avenues-inc.com
 0.0.0.0 www.pfhsystem.com
 0.0.0.0 oascentral.post-gazette.com
 0.0.0.0 oascentral.starbulletin.com
@@ -14213,6 +14218,7 @@
 0.0.0.0 hitboxbenchmarker.com
 0.0.0.0 www.my-stats.com
 0.0.0.0 www.marketrip.co
+0.0.0.0 www.balnakiel.plus.com
 0.0.0.0 www9.smartadserver.com
 0.0.0.0 oascentral.123greetings.com
 0.0.0.0 x.iasrv.com
@@ -14513,6 +14519,7 @@
 0.0.0.0 www.derekrjones.plus.com
 0.0.0.0 www.macatawa.org
 0.0.0.0 wp-club.net
+0.0.0.0 www.benhamlyn.plus.com
 0.0.0.0 www.mb102.com
 0.0.0.0 w21.hitbox.com
 0.0.0.0 te.greenwichtime.com
@@ -14916,6 +14923,7 @@
 0.0.0.0 www.kolks.nl
 0.0.0.0 t0.extreme-dm.com
 0.0.0.0 hg14.hitbox.com
+0.0.0.0 www.bannerconnect.net
 0.0.0.0 wa.5.p2l.info
 0.0.0.0 www.gmads.net
 0.0.0.0 ehg-nvidia.hitbox.com
@@ -14965,11 +14973,13 @@
 0.0.0.0 w31.hitbox.com
 0.0.0.0 www1.amigo2.ne.jp
 0.0.0.0 oascentral.mochila.com
+0.0.0.0 www.avsads.com
 0.0.0.0 www.planet.eon.net
 0.0.0.0 www.maxonclick.com
 0.0.0.0 ct1.addthis.com
 0.0.0.0 danger-phentermine.allforyourlife.com
 0.0.0.0 www.nozawashoten.com
+0.0.0.0 www.bannerads.de
 0.0.0.0 ws06.home.sapo.pt
 0.0.0.0 www.yieldpartners.com
 0.0.0.0 www.robm674.plus.com
@@ -15016,9 +15026,11 @@
 0.0.0.0 xanax-online.dot.de
 0.0.0.0 www.topmeds10.com
 0.0.0.0 yas-jr.com
+0.0.0.0 www.awltovhc.com
 0.0.0.0 www.westreclameadvies.nl
 0.0.0.0 buy-hydrocodone.aca.ru
 0.0.0.0 water-bed.8p.org.uk
+0.0.0.0 www.baba-t.com
 0.0.0.0 www.trafficnetworkads24.com
 0.0.0.0 www.mb01.com
 0.0.0.0 www.vmcsatellite.com
@@ -15046,7 +15058,6 @@
 0.0.0.0 hzs7.cnzz.com
 0.0.0.0 m1.mgogo.com
 0.0.0.0 cap.cyberlink.com
-0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ad.pchome.com.tw
 0.0.0.0 t.d.yoyi.tv
 0.0.0.0 ad1.yangjinyou.com
@@ -15294,7 +15305,6 @@
 0.0.0.0 m.guanren5.com
 0.0.0.0 mrelko.com
 0.0.0.0 ad-stir.com
-0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vipwx.zhong-zhu.com
 0.0.0.0 z6.cnzz.com
 0.0.0.0 api.jsfc8.cn
@@ -16798,7 +16808,6 @@
 0.0.0.0 api.newad.ifeng.com
 0.0.0.0 static.ju.mediav.com
 0.0.0.0 www.3gmimo.com
-0.0.0.0 t.atpanel.com
 0.0.0.0 s79.cnzz.com
 0.0.0.0 vqq.admaster.com.cn
 0.0.0.0 letv.irs01.com
@@ -16965,7 +16974,6 @@
 0.0.0.0 adcdn.hpplay.cn
 0.0.0.0 jscdn.99pps.com
 0.0.0.0 adgeo.163.com
-0.0.0.0 w.l.qq.com
 0.0.0.0 8dqc4u.viqiyi.admaster.com.cn
 0.0.0.0 m.themee.cn
 0.0.0.0 api.flurry.com
@@ -17019,7 +17027,6 @@
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 pfp.sina.com.cn
 0.0.0.0 bd4.idgdmgroup.com.cn
-0.0.0.0 wangmeng.baidu.com
 0.0.0.0 show-s.mediav.com
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 promote.caixin.com
@@ -17241,7 +17248,6 @@
 0.0.0.0 35baba.cn
 0.0.0.0 d6.sina.com.cn
 0.0.0.0 ad.epochtimes.com
-0.0.0.0 stats.ipinyou.com
 0.0.0.0 l.glrcy.cn
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 v1.res.log.hunantv.com
@@ -17555,7 +17561,6 @@
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 is.snssdk.com
 0.0.0.0 show.look.360.cn
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 ip.ws.126.net
 0.0.0.0 am-trc-f.taboola.com
 0.0.0.0 cdn.puata.info
@@ -17693,7 +17698,6 @@
 0.0.0.0 ch-trc.taboola.com
 0.0.0.0 wap.bytdzsw.com
 0.0.0.0 whn.star-media.cn
-0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 cootek-dialer-download.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 api.fc.mob.com
 0.0.0.0 d0.sina.com.cn
@@ -18008,7 +18012,6 @@
 0.0.0.0 mldy.wttpgq.cn
 0.0.0.0 c.zlongad.com
 0.0.0.0 cm.baidu.com
-0.0.0.0 static.doubleclick.net
 0.0.0.0 iad.g.163.com
 0.0.0.0 e.banmamedia.com
 0.0.0.0 v.heygugu.com
@@ -18220,7 +18223,6 @@
 0.0.0.0 j.scswuliu.com
 0.0.0.0 fpb.sohu.com
 0.0.0.0 active.tc.skysrt.com
-0.0.0.0 p3p.mmstat.com
 0.0.0.0 iws.corel.com
 0.0.0.0 galaxy.bjcathay.com
 0.0.0.0 hoisin.coocaatv.com
@@ -19114,7 +19116,6 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0 i-ad.adwo.com
 0.0.0.0 log7.mmstat.com
-0.0.0.0 pos.baidu.com
 0.0.0.0 ad.ipadview.com
 0.0.0.0 m.77vcd.com
 0.0.0.0 d.emarbox.com
@@ -20078,7 +20079,6 @@
 0.0.0.0 click.adperium.com
 0.0.0.0 ad6.bigmir.net
 0.0.0.0 mobileeventad-hamivideo.cdn.hinet.net
-0.0.0.0 static.mediav.com
 0.0.0.0 hk-trc-events.taboola.com
 0.0.0.0 www.ok365.com
 0.0.0.0 daima1.18tzx.com
@@ -21130,6 +21130,47 @@
 0.0.0.0 u.umm6.cn
 0.0.0.0 zzsdtzb.com
 0.0.0.0 c1.ifengimg.com
+## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
+140.82.112.21                 central.github.com
+140.82.113.26                 live.github.com
+20.205.243.165                codeload.github.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               media.githubusercontent.com
+185.199.109.153               githubstatus.com
+140.82.114.17                 github.community
+185.199.108.133               avatars1.githubusercontent.com
+16.182.69.57                  github-production-release-asset-2e65be.s3.amazonaws.com
+192.0.66.2                    github.blog
+185.199.108.133               avatars4.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+140.82.112.22                 collector.github.com
+185.199.108.133               objects.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               desktop.githubusercontent.com
+13.107.246.73                 vscode.dev
+185.199.108.133               private-user-images.githubusercontent.com
+54.231.194.137                github-production-user-asset-6210df.s3.amazonaws.com
+140.82.112.22                 api.individual.githubcopilot.com
+20.205.243.166                gist.github.com
+20.205.243.168                api.github.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.109.153               github.io
+13.107.43.16                  pipelines.actions.githubusercontent.com
+140.82.113.26                 alive.github.com
+185.199.108.133               avatars.githubusercontent.com
+151.101.193.194               github.global.ssl.fastly.net
+54.231.204.113                github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.217.187                 github-cloud.s3.amazonaws.com
+20.205.243.166                github.com
+185.199.108.133               github.map.fastly.net
+185.199.109.154               github.githubassets.com
+16.15.217.211                 github-com.s3.amazonaws.com
+140.82.114.22                 education.github.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               cloud.githubusercontent.com
 ## 👇This Part Merge from: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 127.0.0.1 aaid.umeng.com
 127.0.0.1 kpstaticbj.wx.ckjr001.com
@@ -22592,47 +22633,6 @@
 127.0.0.1 adx.apiok.net
 127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 www3.smartadserver.com
-## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-140.82.113.22                 api.individual.githubcopilot.com
-185.199.110.153               githubstatus.com
-20.205.243.165                codeload.github.com
-52.217.164.89                 github-com.s3.amazonaws.com
-185.199.108.133               raw.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.110.154               github.githubassets.com
-192.0.66.2                    github.blog
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               user-images.githubusercontent.com
-185.199.108.133               camo.githubusercontent.com
-140.82.112.22                 collector.github.com
-185.199.108.133               objects.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-185.199.108.133               desktop.githubusercontent.com
-140.82.113.17                 github.community
-13.107.246.73                 vscode.dev
-185.199.108.133               private-user-images.githubusercontent.com
-13.107.42.16                  pipelines.actions.githubusercontent.com
-20.205.243.166                gist.github.com
-20.205.243.168                api.github.com
-16.15.184.171                 github-cloud.s3.amazonaws.com
-185.199.108.133               avatars3.githubusercontent.com
-140.82.113.22                 central.github.com
-16.15.217.111                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.92.19                  github-production-user-asset-6210df.s3.amazonaws.com
-140.82.113.25                 alive.github.com
-52.216.178.171                github-production-release-asset-2e65be.s3.amazonaws.com
-185.199.108.133               avatars.githubusercontent.com
-185.199.110.153               github.io
-151.101.193.194               github.global.ssl.fastly.net
-20.205.243.166                github.com
-185.199.108.133               github.map.fastly.net
-140.82.113.25                 live.github.com
-140.82.114.22                 education.github.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               cloud.githubusercontent.com
 ## 👇This Part Merge from: https://adaway.org/hosts.txt
 127.0.0.1 app-lon06.marketo.com
 127.0.0.1 cf.adxcel.com
