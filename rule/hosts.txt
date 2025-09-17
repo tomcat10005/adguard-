@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-09-17 09:00:23
+! Last Modified: 2025-09-17 16:17:39
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -3655,7 +3655,6 @@
 0.0.0.0 ad.groupon.com
 0.0.0.0 kt4.kliptracker.com
 0.0.0.0 ads.viber.com
-0.0.0.0 ads1.msn.com
 0.0.0.0 ad24digital.checkm8.com
 0.0.0.0 counteraport.spylog.com
 0.0.0.0 ad3.lbn.ru
@@ -3867,6 +3866,7 @@
 0.0.0.0 peever.myzen.co.uk
 0.0.0.0 ad9.checkm8.com
 0.0.0.0 ad.yieldmanager.com
+0.0.0.0 www.cashbackwow.co.uk
 0.0.0.0 adv.merlin.co.il
 0.0.0.0 adserver1.mediainsight.de
 0.0.0.0 earthlnkpsplive.122.2o7.net
@@ -4261,6 +4261,7 @@
 0.0.0.0 naturahirek.com
 0.0.0.0 ads01.com
 0.0.0.0 ad34.checkm8.com
+0.0.0.0 www.cashcapitalsystem.com
 0.0.0.0 adserver.digitoday.com
 0.0.0.0 cnhregisterherald.122.2o7.net
 0.0.0.0 alphalux.oewabox.at
@@ -5415,7 +5416,6 @@
 0.0.0.0 reskins.fr
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 urlregistrar.net
-0.0.0.0 ads1.msads.net
 0.0.0.0 imotors.fr
 0.0.0.0 minden-egyben.com
 0.0.0.0 texas-diesel.com
@@ -6629,6 +6629,7 @@
 0.0.0.0 lefigarop.fr
 0.0.0.0 landingairquality.airlite.com
 0.0.0.0 mg.dt00.net
+0.0.0.0 www.cashcount.com
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 capostdelivery.com
 0.0.0.0 adserv003.adtech.us
@@ -8743,7 +8744,6 @@
 0.0.0.0 ads.metblogs.com
 0.0.0.0 c0nforama.fr
 0.0.0.0 ad11.focalink.com
-0.0.0.0 adsclick.qq.com
 0.0.0.0 technocite.fr
 0.0.0.0 75esession.fr
 0.0.0.0 push.aarth.net
@@ -9969,7 +9969,6 @@
 0.0.0.0 gcirm.clarionledger.com
 0.0.0.0 overflow.adsoftware.com
 0.0.0.0 securerr.com
-0.0.0.0 analytics.rayjump.com
 0.0.0.0 iplogger.org
 0.0.0.0 toplist.cz
 0.0.0.0 guildofangels.net
@@ -10121,6 +10120,7 @@
 0.0.0.0 ads80.com
 0.0.0.0 www.nextgenstats.com
 0.0.0.0 mbi3.kuicr.kyoto-u.ac.jp
+0.0.0.0 www.casino770.com
 0.0.0.0 darakht.com
 0.0.0.0 hirvilag.co
 0.0.0.0 www.addthis.com
@@ -10449,7 +10449,6 @@
 0.0.0.0 mcsgrp.com
 0.0.0.0 waterstudio.fr
 0.0.0.0 images.cybereps.com
-0.0.0.0 ads2.msn.com
 0.0.0.0 c.nl.msn.com
 0.0.0.0 typewriter.fr
 0.0.0.0 c4.statcounter.com
@@ -12527,6 +12526,7 @@
 0.0.0.0 startmarket.su
 0.0.0.0 tps31.doubleverify.com
 0.0.0.0 computersncs.com
+0.0.0.0 www.cati.com.tw
 0.0.0.0 bravo.israelinfo.ru
 0.0.0.0 www.adreporting.com
 0.0.0.0 this.content.served.by.adshuffle.com
@@ -13507,6 +13507,7 @@
 0.0.0.0 ulink.cc
 0.0.0.0 qhm1.cnzz.com
 0.0.0.0 jpush.html5.qq.com
+0.0.0.0 ads1.msn.com
 0.0.0.0 mw.adwo.com
 0.0.0.0 zn7zcrzms3zdyzvrobkdqdrphkvijejz-a.applovin.com
 0.0.0.0 t.yunsoka.com
@@ -14589,6 +14590,7 @@
 0.0.0.0 view.admaster.com.cn
 0.0.0.0 zxgghn.25ku.com
 0.0.0.0 www.ujian.cc
+0.0.0.0 ads1.msads.net
 0.0.0.0 ads.api.my7v.com
 0.0.0.0 track.tenjin.com
 0.0.0.0 wxwm2.ikuailian.com
@@ -16582,6 +16584,7 @@
 0.0.0.0 tipcatscarola.com
 0.0.0.0 temp.163.com
 0.0.0.0 udash.umengcloud.com
+0.0.0.0 adsclick.qq.com
 0.0.0.0 click1n.soufun.com
 0.0.0.0 cdn.adsfactor.net
 0.0.0.0 ad.dongdong.madserving.com
@@ -17330,6 +17333,7 @@
 0.0.0.0 hzvs1.cnzz.com
 0.0.0.0 m.u0r9.cn
 0.0.0.0 mathtype.cn
+0.0.0.0 analytics.rayjump.com
 0.0.0.0 urchin.5173.com
 0.0.0.0 rtb.admaster.com.cn
 0.0.0.0 click3forhz.adsmogo.com
@@ -17641,6 +17645,7 @@
 0.0.0.0 livep.l.ott.video.qq.com
 0.0.0.0 js.firefang.cn
 0.0.0.0 xifs.tanx.com
+0.0.0.0 ads2.msn.com
 0.0.0.0 app.xizi.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 app.tanwan.com
@@ -19885,7 +19890,6 @@
 0.0.0.0 adminec1.hitbox.com
 0.0.0.0 z.blogads.com
 0.0.0.0 oascentral.aircanada.com
-0.0.0.0 www.cashbackwow.co.uk
 0.0.0.0 www.gatesofhell.plus.com
 0.0.0.0 celebrex.1.p2l.info
 0.0.0.0 xml.click9.com
@@ -20050,7 +20054,6 @@
 0.0.0.0 oascentral.theonionavclub.com
 0.0.0.0 ehg-viacom.hitbox.com
 0.0.0.0 md.5.p2l.info
-0.0.0.0 www.cashcount.com
 0.0.0.0 evwr.hitbox.com
 0.0.0.0 www.cpmadvisors.com
 0.0.0.0 nextel-ringtone.spb.su
@@ -20138,7 +20141,6 @@
 0.0.0.0 xmlheads.com
 0.0.0.0 w10.hitbox.com
 0.0.0.0 www.larivieracasino.com
-0.0.0.0 www.cashcapitalsystem.com
 0.0.0.0 search4you.50webs.com
 0.0.0.0 www.top20free.com
 0.0.0.0 zc1.zeroredirect11.com
@@ -20624,7 +20626,6 @@
 0.0.0.0 w21.hitbox.com
 0.0.0.0 te.greenwichtime.com
 0.0.0.0 ok.5.p2l.info
-0.0.0.0 www.cati.com.tw
 0.0.0.0 xenical.1.p2l.info
 0.0.0.0 ehg-eckounlimited.hitbox.com
 0.0.0.0 www24.glam.com
@@ -20645,7 +20646,6 @@
 0.0.0.0 esg.hitbox.com
 0.0.0.0 www.sa44.net
 0.0.0.0 zoloft.4.p2l.info
-0.0.0.0 www.casino770.com
 0.0.0.0 www.talentbroker.net
 0.0.0.0 www.sochr.com
 0.0.0.0 www8.bannerspace.com
@@ -22593,45 +22593,45 @@
 127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 www3.smartadserver.com
 ## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-140.82.112.25                 alive.github.com
-52.217.159.49                 github-cloud.s3.amazonaws.com
+140.82.113.22                 api.individual.githubcopilot.com
+52.216.179.147                github-production-release-asset-2e65be.s3.amazonaws.com
 20.205.243.165                codeload.github.com
 185.199.111.133               avatars5.githubusercontent.com
-16.182.40.129                 github-com.s3.amazonaws.com
 185.199.111.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
 185.199.111.133               raw.githubusercontent.com
+140.82.114.18                 github.community
+185.199.110.154               github.githubassets.com
 185.199.111.133               camo.githubusercontent.com
 192.0.66.2                    github.blog
-140.82.113.21                 education.github.com
-52.216.248.4                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.179.31                  github-production-user-asset-6210df.s3.amazonaws.com
 140.82.112.22                 collector.github.com
 185.199.111.133               favicons.githubusercontent.com
+52.217.38.52                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.111.133               avatars0.githubusercontent.com
-140.82.113.18                 github.community
+16.15.218.63                  github-cloud.s3.amazonaws.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-140.82.114.25                 live.github.com
 185.199.111.133               avatars1.githubusercontent.com
 20.205.243.166                gist.github.com
 20.205.243.168                api.github.com
-140.82.112.22                 central.github.com
+140.82.113.22                 education.github.com
+140.82.114.26                 live.github.com
+140.82.114.22                 central.github.com
 185.199.111.133               avatars3.githubusercontent.com
 185.199.109.153               github.io
 185.199.111.133               media.githubusercontent.com
 185.199.111.133               private-user-images.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
+140.82.113.26                 alive.github.com
 185.199.111.133               avatars.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
-140.82.114.21                 api.individual.githubcopilot.com
 185.199.111.133               avatars4.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 151.101.193.194               github.global.ssl.fastly.net
 20.205.243.166                github.com
-185.199.109.154               github.githubassets.com
+16.182.36.209                 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.107.52                 github-com.s3.amazonaws.com
 185.199.111.133               user-images.githubusercontent.com
-52.217.207.49                 github-production-release-asset-2e65be.s3.amazonaws.com
 13.107.246.73                 vscode.dev  # Timeout
 ## 👇This Part Merge from: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 0.0.0.0 bn4sch101120911.wns.windows.com
