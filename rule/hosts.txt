@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2025-10-05 16:14:58
+! Last Modified: 2025-10-06 00:13:53
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -13363,6 +13363,7 @@
 0.0.0.0 www.sexsponsors.com
 0.0.0.0 www.peterfishwick.free-online.co.uk
 0.0.0.0 w18.hitbox.com
+0.0.0.0 b.ads1.msn.com
 0.0.0.0 detox.shengen.ru
 0.0.0.0 xml.adtech.fr
 0.0.0.0 supplements.1.p2l.info
@@ -14479,6 +14480,7 @@
 0.0.0.0 bontril.1.p2l.info
 0.0.0.0 ias.hitbox.com
 0.0.0.0 zapadserver1.com
+0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 2guys1stump.org
 0.0.0.0 www.parsads.com
 0.0.0.0 w170.hitbox.com
@@ -14998,6 +15000,7 @@
 0.0.0.0 www.gm4pgv.plus.com
 0.0.0.0 www.ontheweb.com
 0.0.0.0 www.wwt-ag.ch
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 www.smart-scripts.com
 0.0.0.0 www.trendnews.com
 0.0.0.0 www.simpli.fi
@@ -18661,7 +18664,6 @@
 0.0.0.0 xz.tongji.shouji56.com
 0.0.0.0 www.zhzzx.com
 0.0.0.0 origin-static.exoclick.com
-0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 nzfc.2zm4.cn
 0.0.0.0 3.up.qingdaonews.com
 0.0.0.0 cdn.cmop.mgtv.com
@@ -19494,7 +19496,6 @@
 0.0.0.0 ty.viqiyi.admaster.com.cn
 0.0.0.0 hippo.vlion.cn
 0.0.0.0 ttt.agrantsem.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 service.ad.duomi.com
 0.0.0.0 sha50.com
 0.0.0.0 aim.yoyi.com.cn
@@ -19798,7 +19799,6 @@
 0.0.0.0 c1.wkanx.com
 0.0.0.0 lhafy.com
 0.0.0.0 api-metrics-canary.flurry.com
-0.0.0.0 b.ads1.msn.com
 0.0.0.0 realtime-metrics.flurry.com
 0.0.0.0 pjyu.golden1.sogou.com
 0.0.0.0 cmsapi.wifi8.com
@@ -22592,6 +22592,47 @@
 0.0.0.0 u.umm6.cn
 0.0.0.0 zzsdtzb.com
 0.0.0.0 c1.ifengimg.com
+## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
+16.182.99.193                 github-cloud.s3.amazonaws.com
+140.82.112.21                 api.individual.githubcopilot.com
+20.205.243.165                codeload.github.com
+185.199.108.133               raw.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.108.133               media.githubusercontent.com
+185.199.109.153               githubstatus.com
+185.199.108.133               avatars1.githubusercontent.com
+140.82.114.18                 github.community
+185.199.110.154               github.githubassets.com
+192.0.66.2                    github.blog
+185.199.108.133               avatars4.githubusercontent.com
+52.216.43.185                 github-com.s3.amazonaws.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.108.133               camo.githubusercontent.com
+140.82.112.22                 collector.github.com
+185.199.108.133               objects.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+185.199.108.133               desktop.githubusercontent.com
+185.199.108.133               private-user-images.githubusercontent.com
+13.107.42.16                  pipelines.actions.githubusercontent.com
+20.205.243.166                gist.github.com
+20.205.243.168                api.github.com
+140.82.114.26                 live.github.com
+140.82.114.22                 central.github.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.109.153               github.io
+54.231.232.145                github-production-user-asset-6210df.s3.amazonaws.com
+13.107.213.73                 vscode.dev  # Timeout
+140.82.113.25                 alive.github.com
+185.199.108.133               avatars.githubusercontent.com
+140.82.114.21                 education.github.com
+151.101.193.194               github.global.ssl.fastly.net
+52.217.137.57                 github-production-release-asset-2e65be.s3.amazonaws.com
+20.205.243.166                github.com
+185.199.108.133               github.map.fastly.net
+3.5.27.233                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               cloud.githubusercontent.com
 ## 👇This Part Merge from: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 0.0.0.0 bn4sch101120911.wns.windows.com
 0.0.0.0 hk2sch130020961.wns.windows.com
@@ -22886,47 +22927,6 @@
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 sg2p.wns.windows.com
 0.0.0.0 cds421.lcy.llnw.net
-## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-140.82.112.21                 central.github.com
-140.82.112.26                 alive.github.com
-140.82.113.21                 collector.github.com
-20.205.243.165                codeload.github.com
-185.199.108.133               raw.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-185.199.108.133               media.githubusercontent.com
-185.199.109.153               githubstatus.com
-52.217.142.89                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.110.154               github.githubassets.com
-192.0.66.2                    github.blog
-185.199.108.133               avatars4.githubusercontent.com
-16.15.186.17                  github-com.s3.amazonaws.com
-185.199.108.133               user-images.githubusercontent.com
-185.199.108.133               camo.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-185.199.108.133               desktop.githubusercontent.com
-185.199.108.133               private-user-images.githubusercontent.com
-13.107.42.16                  pipelines.actions.githubusercontent.com
-3.5.27.151                    github-cloud.s3.amazonaws.com
-140.82.114.25                 live.github.com
-140.82.112.22                 api.individual.githubcopilot.com
-20.205.243.166                gist.github.com
-20.205.243.168                api.github.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.109.153               github.io
-13.107.213.73                 vscode.dev  # Timeout
-185.199.108.133               avatars.githubusercontent.com
-140.82.112.17                 github.community
-52.217.165.121                github-production-release-asset-2e65be.s3.amazonaws.com
-151.101.193.194               github.global.ssl.fastly.net
-20.205.243.166                github.com
-185.199.108.133               github.map.fastly.net
-16.15.203.243                 github-production-user-asset-6210df.s3.amazonaws.com
-140.82.112.22                 education.github.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               cloud.githubusercontent.com
 ## 👇This Part Merge from: https://adaway.org/hosts.txt
 127.0.0.1 app-lon06.marketo.com
 127.0.0.1 cf.adxcel.com
