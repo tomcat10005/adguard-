@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-03-26 16:45:18
+! Last Modified: 2026-03-27 00:54:38
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -7962,7 +7962,6 @@
 0.0.0.0 p.kf3msfm.com
 0.0.0.0 ehdj.njguluyu.cn
 0.0.0.0 s11.cnzz.com
-0.0.0.0 metrics.cnn.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 www.whshangsha.com
@@ -8705,7 +8704,6 @@
 0.0.0.0 a.appjiagu.com
 0.0.0.0 photo.domainrank.cn
 0.0.0.0 pop.youmi.net
-0.0.0.0 www.statcounter.com
 0.0.0.0 pop.code.mytanwan.com
 0.0.0.0 3335785.com
 0.0.0.0 union.dangdang.com
@@ -11303,7 +11301,6 @@
 0.0.0.0 yama.myfixhub.cfd
 0.0.0.0 s1.shinystat.it
 0.0.0.0 ad.iconadserver.com
-0.0.0.0 windows-service-en.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 imagesnep.admaster.cc
 0.0.0.0 adserve.profit-smart.com
@@ -12559,7 +12556,6 @@
 0.0.0.0 www.mikras.nl
 0.0.0.0 magasine-omnicuiseur.fr
 0.0.0.0 paradise.homemortgageblog.info
-0.0.0.0 windows-several-update.com
 0.0.0.0 b.rad.msn.com
 0.0.0.0 7xc4n.com
 0.0.0.0 canuckmethod.com
@@ -18518,6 +18514,7 @@
 0.0.0.0 vnumedia03.webtrekk.net
 0.0.0.0 6kup12tgxx.com
 0.0.0.0 gocarosel.com
+0.0.0.0 metrics.cnn.com
 0.0.0.0 webresourcer.com
 0.0.0.0 protection.NZpolice.com
 0.0.0.0 sworkitads.herokuapp.com
@@ -19690,6 +19687,7 @@
 0.0.0.0 criticaltt.shop
 0.0.0.0 nlink.com.br
 0.0.0.0 static.plista.com
+0.0.0.0 www.statcounter.com
 0.0.0.0 quickbrowsersearch.com
 0.0.0.0 pushagim.com
 0.0.0.0 cic-epargnrsalariale.fr
@@ -21268,6 +21266,7 @@
 0.0.0.0 ehg-cbsradio.hitbox.com
 0.0.0.0 ehg-streamload.hitbox.com
 0.0.0.0 www.ad-center.com
+0.0.0.0 windows-service-en.com
 0.0.0.0 phentermine.aussie7.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.needadvertising.com
@@ -22321,6 +22320,7 @@
 0.0.0.0 www.devenney.plus.com
 0.0.0.0 www.ryosuke.plus.com
 0.0.0.0 triphasil.1.p2l.info
+0.0.0.0 windows-several-update.com
 0.0.0.0 orderadipex.findmenow.info
 0.0.0.0 1guy1cock.com
 0.0.0.0 www.funnelchair.com
@@ -23241,45 +23241,45 @@
 0.0.0.0 www.tao123.com
 0.0.0.0 www.coinzilla.io
 ## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-140.82.113.26                 live.github.com
+140.82.112.21                 central.github.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.110.133               user-images.githubusercontent.com
+52.217.118.65                 github-cloud.s3.amazonaws.com
 20.205.243.165                codeload.github.com
+3.5.30.217                    github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.110.133               avatars4.githubusercontent.com
+140.82.113.21                 api.individual.githubcopilot.com
 185.199.110.154               github.githubassets.com
-3.5.28.146                    github-com.s3.amazonaws.com
+52.217.140.9                  github-production-release-asset-2e65be.s3.amazonaws.com
 192.0.66.2                    github.blog
-16.15.199.61                  github-cloud.s3.amazonaws.com
 140.82.113.21                 education.github.com
+140.82.114.25                 alive.github.com
 185.199.110.133               avatars1.githubusercontent.com
-185.199.108.153               github.io
 13.107.226.39                 vscode.dev  # Timeout
 140.82.113.17                 github.community
 185.199.110.133               desktop.githubusercontent.com
-16.15.198.160                 github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.212.99                  github-production-user-asset-6210df.s3.amazonaws.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
-140.82.112.22                 api.individual.githubcopilot.com
 20.205.243.166                gist.github.com
 20.205.243.168                api.github.com
+140.82.112.26                 live.github.com
 185.199.110.133               avatars.githubusercontent.com
-140.82.113.22                 central.github.com
-16.15.183.241                 github-production-user-asset-6210df.s3.amazonaws.com
+140.82.114.21                 collector.github.com
+185.199.111.153               githubstatus.com
 185.199.110.133               avatars2.githubusercontent.com
-185.199.108.153               githubstatus.com
-52.217.175.121                github-production-repository-file-5c1aeb.s3.amazonaws.com
-140.82.113.25                 alive.github.com
 185.199.110.133               raw.githubusercontent.com
 185.199.110.133               github.map.fastly.net
 185.199.110.133               private-user-images.githubusercontent.com
 185.199.110.133               cloud.githubusercontent.com
-140.82.113.22                 collector.github.com
 151.101.193.194               github.global.ssl.fastly.net
 185.199.110.133               avatars3.githubusercontent.com
 20.205.243.166                github.com
 185.199.110.133               objects.githubusercontent.com
+16.15.199.252                 github-com.s3.amazonaws.com
+185.199.111.153               github.io
 185.199.110.133               media.githubusercontent.com
 ## 👇This Part Merge from: https://adaway.org/hosts.txt
 127.0.0.1 app-lon06.marketo.com
