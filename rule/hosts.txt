@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-05-29 10:37:52
+! Last Modified: 2026-05-29 19:21:28
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -4018,7 +4018,6 @@
 0.0.0.0 cm.dmp.sina.cn
 0.0.0.0 static.alimama.com
 0.0.0.0 eap.enorth.com.cn
-0.0.0.0 coinhive.com
 0.0.0.0 st3.wagbridge.advertisement.tanx.com
 0.0.0.0 adx.adxglobal.com
 0.0.0.0 ecma.bdimg.com
@@ -4699,7 +4698,6 @@
 0.0.0.0 z2.zhishidu.com
 0.0.0.0 m.cudaojia.com
 0.0.0.0 cl3.webterren.com
-0.0.0.0 adadvisor.net
 0.0.0.0 0x5.me
 0.0.0.0 static-ssl.mediav.com
 0.0.0.0 1.up.qingdaonews.com
@@ -6840,7 +6838,6 @@
 0.0.0.0 sm.domob.cn
 0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 analytics.atdmt.com
-0.0.0.0 stats.bbc.co.uk
 0.0.0.0 storm-api.ad4game.com
 0.0.0.0 au.w.inmobi.cn
 0.0.0.0 tc.ci123.com
@@ -7962,7 +7959,6 @@
 0.0.0.0 p.kf3msfm.com
 0.0.0.0 ehdj.njguluyu.cn
 0.0.0.0 s11.cnzz.com
-0.0.0.0 metrics.cnn.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 www.whshangsha.com
@@ -12318,6 +12314,7 @@
 0.0.0.0 quaidesbulles.fr
 0.0.0.0 cyberfaery.com
 0.0.0.0 counter9.sextracker.be
+0.0.0.0 coinhive.com
 0.0.0.0 gtiruto.shop
 0.0.0.0 reception-desk.net
 0.0.0.0 ads.paper.li
@@ -13399,6 +13396,7 @@
 0.0.0.0 ads2.revenue.net
 0.0.0.0 www.leeucode.com
 0.0.0.0 services1.adtech.us
+0.0.0.0 adadvisor.net
 0.0.0.0 counter.bloke.com
 0.0.0.0 clicktrack247.com
 0.0.0.0 disneyholidays.fr
@@ -14477,7 +14475,6 @@
 0.0.0.0 ads.phillyburbs.com
 0.0.0.0 ads.harpers.org
 0.0.0.0 pro.letv.com
-0.0.0.0 tommysbookmarks.net
 0.0.0.0 l-histoire.fr
 0.0.0.0 www.teafortune.com
 0.0.0.0 www.daytonjaxx.com
@@ -16800,6 +16797,7 @@
 0.0.0.0 con-trnroayl.online
 0.0.0.0 pullipstyle.fr
 0.0.0.0 fls.doubleclick.net
+0.0.0.0 stats.bbc.co.uk
 0.0.0.0 track.msadcenter.rfjq.com
 0.0.0.0 adbucks.brandreachsys.com
 0.0.0.0 lcastorama.fr
@@ -18227,7 +18225,6 @@
 0.0.0.0 nameketathar.pro
 0.0.0.0 e-2dj6wjny-1idzkh.stats.esomniture.com
 0.0.0.0 eduthermas.sk
-0.0.0.0 tommysbookmarks.com
 0.0.0.0 www.learntechno.com
 0.0.0.0 adin.bigpoint.com
 0.0.0.0 showcount.honest.com
@@ -18523,6 +18520,7 @@
 0.0.0.0 banners.zbs.ru
 0.0.0.0 6kup12tgxx.com
 0.0.0.0 gocarosel.com
+0.0.0.0 metrics.cnn.com
 0.0.0.0 webresourcer.com
 0.0.0.0 protection.NZpolice.com
 0.0.0.0 sworkitads.herokuapp.com
@@ -18988,7 +18986,6 @@
 0.0.0.0 bak0-store.com
 0.0.0.0 freshzz00.duckdns.org
 0.0.0.0 intela.com
-0.0.0.0 tommasobuglioni.com
 0.0.0.0 32red.it
 0.0.0.0 cbs.112.2o7.net
 0.0.0.0 ad-g.doubleclick.net
@@ -19446,7 +19443,6 @@
 0.0.0.0 indyscribe.com
 0.0.0.0 register.cinematrix.net
 0.0.0.0 link4ads.com
-0.0.0.0 toiletpaper.life
 0.0.0.0 freecontent.bid
 0.0.0.0 lincolnshirefitness.co.uk
 0.0.0.0 allomine.fr
@@ -21417,6 +21413,7 @@
 0.0.0.0 www.freeplasmanation.com
 0.0.0.0 soma.1.p2l.info
 0.0.0.0 www.coin-ad.com
+0.0.0.0 tommasobuglioni.com
 0.0.0.0 waust.at
 0.0.0.0 www.paperg.com
 0.0.0.0 qc.5.p2l.info
@@ -21891,6 +21888,7 @@
 0.0.0.0 www.1priest1nun.com
 0.0.0.0 www.speedyclick.com
 0.0.0.0 www.rubyfortune.com
+0.0.0.0 toiletpaper.life
 0.0.0.0 webads.nl
 0.0.0.0 www10.indiads.com
 0.0.0.0 nd.5.p2l.info
@@ -21960,6 +21958,7 @@
 0.0.0.0 w118.hitbox.com
 0.0.0.0 www.wdm29.com
 0.0.0.0 www.histats.com
+0.0.0.0 tommysbookmarks.net
 0.0.0.0 ehg-ubisoft.hitbox.com
 0.0.0.0 wy.5.p2l.info
 0.0.0.0 buy-vicodin-online.seumala.net
@@ -23132,6 +23131,7 @@
 0.0.0.0 www.painolympics.info
 0.0.0.0 vakarek.info
 0.0.0.0 alprazolam.ourtablets.com
+0.0.0.0 tommysbookmarks.com
 0.0.0.0 codeine.ourtablets.com
 0.0.0.0 fioricet.4.p2l.info
 0.0.0.0 www.virtumundo.com
@@ -23578,25 +23578,28 @@
 0.0.0.0 www.tao123.com
 0.0.0.0 www.coinzilla.io
 ## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-140.82.113.21                 central.github.com
-140.82.112.26                 alive.github.com
+140.82.112.25                 alive.github.com
+140.82.112.21                 central.github.com
 185.199.110.133               avatars0.githubusercontent.com
-16.15.207.245                 github-cloud.s3.amazonaws.com
+16.15.191.66                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.110.133               user-images.githubusercontent.com
+140.82.113.21                 collector.github.com
 140.82.112.21                 api.individual.githubcopilot.com
 20.205.243.165                codeload.github.com
 185.199.110.133               avatars4.githubusercontent.com
 192.0.66.2                    github.blog
-140.82.114.22                 collector.github.com
 185.199.110.133               avatars1.githubusercontent.com
 185.199.108.153               github.io
+13.107.226.39                 vscode.dev  # Timeout
+16.182.65.105                 github-production-user-asset-6210df.s3.amazonaws.com
+140.82.113.18                 github.community
 185.199.110.133               desktop.githubusercontent.com
+140.82.112.25                 live.github.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
+16.15.237.66                  github-production-release-asset-2e65be.s3.amazonaws.com
 185.199.110.133               avatars5.githubusercontent.com
-16.15.229.27                  github-com.s3.amazonaws.com
-16.15.183.229                 github-production-user-asset-6210df.s3.amazonaws.com
 20.205.243.166                gist.github.com
 20.205.243.168                api.github.com
 185.199.110.133               avatars.githubusercontent.com
@@ -23607,17 +23610,14 @@
 185.199.110.133               github.map.fastly.net
 185.199.110.133               private-user-images.githubusercontent.com
 185.199.110.133               cloud.githubusercontent.com
-140.82.112.21                 education.github.com
-140.82.112.17                 github.community
+16.15.199.45                  github-cloud.s3.amazonaws.com
 151.101.193.194               github.global.ssl.fastly.net
-150.171.110.68                vscode.dev  # Timeout
 185.199.110.133               avatars3.githubusercontent.com
+16.15.253.243                 github-com.s3.amazonaws.com
 20.205.243.166                github.com
 185.199.110.133               objects.githubusercontent.com
-140.82.113.25                 live.github.com
-16.15.254.155                 github-production-release-asset-2e65be.s3.amazonaws.com
+140.82.112.22                 education.github.com
 185.199.110.133               media.githubusercontent.com
-16.15.253.19                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 ## 👇This Part Merge from: https://adaway.org/hosts.txt
 127.0.0.1 app-lon06.marketo.com
 127.0.0.1 cf.adxcel.com
