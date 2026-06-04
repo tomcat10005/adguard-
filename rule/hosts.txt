@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-06-04 18:56:47
+! Last Modified: 2026-06-05 02:10:05
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -12659,6 +12659,7 @@
 0.0.0.0 www.ultratemps.com
 0.0.0.0 postcanada.ship-express.info
 0.0.0.0 clicks.natwest.com
+0.0.0.0 www.breaksdown.lol
 0.0.0.0 www.tradingtactics.win
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 images-cdn.azoogleads.com
@@ -13595,6 +13596,7 @@
 0.0.0.0 serving.plexop.net
 0.0.0.0 ads2.realcities.com
 0.0.0.0 js.adspro.it
+0.0.0.0 www.altunyapimarket.com
 0.0.0.0 needlepoint.fr
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 adserver.twitpic.com
@@ -14393,7 +14395,6 @@
 0.0.0.0 adserver.sanomawsoy.fi
 0.0.0.0 aff.promodeals.nl
 0.0.0.0 insightfirst.com
-0.0.0.0 top100-images.rambler.ru
 0.0.0.0 freedvddept.com
 0.0.0.0 apiapple.com
 0.0.0.0 www.objectopoly.info
@@ -14643,7 +14644,6 @@
 0.0.0.0 colddry.com
 0.0.0.0 tealium.com
 0.0.0.0 counter40.bravenet.com
-0.0.0.0 top.list.ru
 0.0.0.0 adsinimages.com
 0.0.0.0 lefigarao.fr
 0.0.0.0 nanocluster.reklamz.com
@@ -17174,6 +17174,7 @@
 0.0.0.0 azoogleads.com
 0.0.0.0 partners.webmasterplan.com
 0.0.0.0 ads.timesunion.com
+0.0.0.0 www.gooddeserve.skin
 0.0.0.0 gcirm.press-citizen.com
 0.0.0.0 asklots.com
 0.0.0.0 salesforce.122.2o7.net
@@ -19063,7 +19064,6 @@
 0.0.0.0 im.52441.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 sitesofa.za.com
-0.0.0.0 toolbar.soso.com
 0.0.0.0 static.plugrush.com
 0.0.0.0 tranisere.fr
 0.0.0.0 securielite.com
@@ -21501,6 +21501,7 @@
 0.0.0.0 www.clickbank.com
 0.0.0.0 ukrashulya.ru
 0.0.0.0 www.wppluginspro.com
+0.0.0.0 toolbar.soso.com
 0.0.0.0 w139.hitbox.com
 0.0.0.0 fruitlauncher.com
 0.0.0.0 www.emarketmakers.com
@@ -21885,6 +21886,7 @@
 0.0.0.0 www.highleycoupons.com
 0.0.0.0 oascentral.artistirect.com
 0.0.0.0 tracking.feedmob.com
+0.0.0.0 top100-images.rambler.ru
 0.0.0.0 ehg-dig.hitbox.com
 0.0.0.0 or.5.p2l.info
 0.0.0.0 www.clickxchange.com
@@ -22124,6 +22126,7 @@
 0.0.0.0 track.tooplay.com
 0.0.0.0 www.lpcloudsvr302.com
 0.0.0.0 fukkad.com
+0.0.0.0 top.list.ru
 0.0.0.0 funnyreign.com	# heavy spam (Site Advisor received 1075 e-mails/week)
 0.0.0.0 www.teltech.hu
 0.0.0.0 www.tradelax.com
@@ -23598,6 +23601,47 @@
 0.0.0.0 trourted.pro
 0.0.0.0 www.tao123.com
 0.0.0.0 www.coinzilla.io
+## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
+152.32.215.247                github.blog
+152.32.215.247                avatars4.githubusercontent.com
+152.32.215.247                camo.githubusercontent.com
+152.32.215.247                github-production-release-asset-2e65be.s3.amazonaws.com
+152.32.215.247                vscode.dev
+152.32.215.247                github.map.fastly.net
+152.32.215.247                codeload.github.com
+152.32.215.247                github.io
+152.32.215.247                github.global.ssl.fastly.net
+152.32.215.247                pipelines.actions.githubusercontent.com
+152.32.215.247                avatars0.githubusercontent.com
+152.32.215.247                alive.github.com
+152.32.215.247                live.github.com
+152.32.215.247                avatars5.githubusercontent.com
+152.32.215.247                github.com
+152.32.215.247                education.github.com
+152.32.215.247                github-cloud.s3.amazonaws.com
+152.32.215.247                github-production-user-asset-6210df.s3.amazonaws.com
+152.32.215.247                favicons.githubusercontent.com
+152.32.215.247                user-images.githubusercontent.com
+152.32.215.247                avatars.githubusercontent.com
+152.32.215.247                desktop.githubusercontent.com
+152.32.215.247                github.community
+152.32.215.247                avatars1.githubusercontent.com
+152.32.215.247                api.individual.githubcopilot.com
+152.32.215.247                github.githubassets.com
+152.32.215.247                cloud.githubusercontent.com
+152.32.215.247                private-user-images.githubusercontent.com
+152.32.215.247                media.githubusercontent.com
+152.32.215.247                github-production-repository-file-5c1aeb.s3.amazonaws.com
+152.32.215.247                raw.githubusercontent.com
+152.32.215.247                gist.github.com
+152.32.215.247                api.github.com
+152.32.215.247                avatars3.githubusercontent.com
+152.32.215.247                avatars2.githubusercontent.com
+152.32.215.247                central.github.com
+152.32.215.247                collector.github.com
+152.32.215.247                github-com.s3.amazonaws.com
+152.32.215.247                githubstatus.com
+152.32.215.247                objects.githubusercontent.com
 ## 👇This Part Merge from: https://adaway.org/hosts.txt
 127.0.0.1 app-lon06.marketo.com
 127.0.0.1 cf.adxcel.com
@@ -30016,44 +30060,3 @@
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 sg2p.wns.windows.com
 0.0.0.0 cds421.lcy.llnw.net
-## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-152.32.215.247                github.blog
-152.32.215.247                avatars4.githubusercontent.com
-152.32.215.247                camo.githubusercontent.com
-152.32.215.247                github-production-release-asset-2e65be.s3.amazonaws.com
-152.32.215.247                vscode.dev
-152.32.215.247                github.map.fastly.net
-152.32.215.247                codeload.github.com
-152.32.215.247                github.io
-152.32.215.247                github.global.ssl.fastly.net
-152.32.215.247                pipelines.actions.githubusercontent.com
-152.32.215.247                avatars0.githubusercontent.com
-152.32.215.247                alive.github.com
-152.32.215.247                live.github.com
-152.32.215.247                avatars5.githubusercontent.com
-152.32.215.247                github.com
-152.32.215.247                education.github.com
-152.32.215.247                github-cloud.s3.amazonaws.com
-152.32.215.247                github-production-user-asset-6210df.s3.amazonaws.com
-152.32.215.247                favicons.githubusercontent.com
-152.32.215.247                user-images.githubusercontent.com
-152.32.215.247                avatars.githubusercontent.com
-152.32.215.247                desktop.githubusercontent.com
-152.32.215.247                github.community
-152.32.215.247                avatars1.githubusercontent.com
-152.32.215.247                api.individual.githubcopilot.com
-152.32.215.247                github.githubassets.com
-152.32.215.247                cloud.githubusercontent.com
-152.32.215.247                private-user-images.githubusercontent.com
-152.32.215.247                media.githubusercontent.com
-152.32.215.247                github-production-repository-file-5c1aeb.s3.amazonaws.com
-152.32.215.247                raw.githubusercontent.com
-152.32.215.247                gist.github.com
-152.32.215.247                api.github.com
-152.32.215.247                avatars3.githubusercontent.com
-152.32.215.247                avatars2.githubusercontent.com
-152.32.215.247                central.github.com
-152.32.215.247                collector.github.com
-152.32.215.247                github-com.s3.amazonaws.com
-152.32.215.247                githubstatus.com
-152.32.215.247                objects.githubusercontent.com
