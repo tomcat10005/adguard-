@@ -1,6 +1,6 @@
 [xndeye Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2026-09-22 04:13:04
+! Last Modified: 2026-09-22 10:47:09
 ! Homepage: https://github.com/tomcat10005/adguard-/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
@@ -3388,6 +3388,7 @@
 0.0.0.0 conversion.pro.cn
 0.0.0.0 hotupgrade.hpplay.cn
 0.0.0.0 count.wk2.com
+0.0.0.0 bluekai.com
 0.0.0.0 g.mnw.cn
 0.0.0.0 easynews.adsame.com
 0.0.0.0 dev.wifi8.com
@@ -3439,6 +3440,7 @@
 0.0.0.0 www.hmnjf.com
 0.0.0.0 dpvchos.qqyy.com
 0.0.0.0 show-3.mediav.com
+0.0.0.0 js.revsci.net
 0.0.0.0 v13.cnzz.com
 0.0.0.0 t.l.qq.com
 0.0.0.0 e.puooi.com
@@ -3577,6 +3579,7 @@
 0.0.0.0 sdfp.snssdk.com
 0.0.0.0 v4g.cn
 0.0.0.0 rec.moviebox.baofeng.net
+0.0.0.0 api.adsymptotic.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 api.mobgi.com
 0.0.0.0 uat1.bfsspadserver.8le8le.com
@@ -3719,6 +3722,7 @@
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 counter.m1905.com
 0.0.0.0 mob29.shqcbus.com
+0.0.0.0 pixel.advertising.com
 0.0.0.0 c.v4dwkcv.com
 0.0.0.0 ow.biqugego.com
 0.0.0.0 asd.sincetrade.com
@@ -3963,6 +3967,7 @@
 0.0.0.0 webstat.kuwo.cn
 0.0.0.0 ms.vipstatic.com
 0.0.0.0 www.hunpingou.com
+0.0.0.0 cdn.fastclick.net
 0.0.0.0 www.smucdn.com
 0.0.0.0 wxb.wxbdfm.com
 0.0.0.0 dsp.hot-mob.com
@@ -4866,6 +4871,7 @@
 0.0.0.0 count6.pconline.com.cn
 0.0.0.0 pad.zhywyl.cn
 0.0.0.0 popme.163.com
+0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 js.dkqapp.cn
 0.0.0.0 5.5ppt.net
 0.0.0.0 m.joyxv.com
@@ -5097,6 +5103,7 @@
 0.0.0.0 s03.optimix.asia
 0.0.0.0 r.trwl1.com
 0.0.0.0 ucus.ucweb.com
+0.0.0.0 media.fastclick.net
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 www.mijifen.com
 0.0.0.0 res.icast.cn
@@ -5269,6 +5276,7 @@
 0.0.0.0 8.jrj.com
 0.0.0.0 v2.gdt.qq.com
 0.0.0.0 e.ac56.xyz
+0.0.0.0 eus.rubiconproject.com
 0.0.0.0 rmw.jdburl.com
 0.0.0.0 zzcw.office-mall.net
 0.0.0.0 XiaoQiang
@@ -5426,6 +5434,7 @@
 0.0.0.0 cruiser.bayescom.cn
 0.0.0.0 m.i36mf.cn
 0.0.0.0 www.360shopping.com.cn
+0.0.0.0 counter.yadro.ru
 0.0.0.0 yijifen.com
 0.0.0.0 gdc2091.cc-club.com.cn
 0.0.0.0 csbew.com
@@ -5561,6 +5570,7 @@
 0.0.0.0 www.1933000.com
 0.0.0.0 www.whalecloud.com
 0.0.0.0 gz.hxdaka.com
+0.0.0.0 pix04.revsci.net
 0.0.0.0 adbana.com
 0.0.0.0 ysm.hauchi.com.tw
 0.0.0.0 adimg.uimserv.net
@@ -6199,6 +6209,7 @@
 0.0.0.0 cdn1.srv.revdepo.com
 0.0.0.0 a-stage2.tribalfusion.com
 0.0.0.0 js.blogdaka.cc
+0.0.0.0 c1.statcounter.com
 0.0.0.0 cdn.media.innity.net
 0.0.0.0 jihehuaban.com
 0.0.0.0 image.fsyule.net
@@ -6227,6 +6238,7 @@
 0.0.0.0 kveaa.com
 0.0.0.0 erebor.douban.com
 0.0.0.0 youmi.net
+0.0.0.0 beacon.krxd.net
 0.0.0.0 cmcdl.cmcm.com
 0.0.0.0 app.lz55.cn
 0.0.0.0 ktivn.uranus.sogou.com
@@ -6471,6 +6483,7 @@
 0.0.0.0 pv.zdnet.com.cn
 0.0.0.0 sspmservice.ad-survey.com
 0.0.0.0 tw.alimama.cn
+0.0.0.0 counter.hitslink.com
 0.0.0.0 yql.yahoo.com
 0.0.0.0 adsp.xunlei.com
 0.0.0.0 ku6.cnzz.com
@@ -6759,6 +6772,7 @@
 0.0.0.0 log.sina.cn
 0.0.0.0 www.song001.com
 0.0.0.0 360.munion.mediav.com
+0.0.0.0 activity.serving-sys.com
 0.0.0.0 i5.akjunshi.com
 0.0.0.0 cloudcdn.dopa.com
 0.0.0.0 js.xuexila.com
@@ -7703,6 +7717,7 @@
 0.0.0.0 adsense.html5.qq.com
 0.0.0.0 pf-2.pchome.net
 0.0.0.0 s.cr-nielsen.com
+0.0.0.0 bam.nr-data.net
 0.0.0.0 8b6dfa.v.admaster.com.cn
 0.0.0.0 bduserlog.eastmoney.com
 0.0.0.0 www.810251.com
@@ -7858,6 +7873,7 @@
 0.0.0.0 cm.pos.baidu.com
 0.0.0.0 h10.hxsame.hexun.com
 0.0.0.0 lz.whafwl.com
+0.0.0.0 click.atdmt.com
 0.0.0.0 cm.he2d.com
 0.0.0.0 rcv.moogos.com
 0.0.0.0 su.bdstatic.com
@@ -9286,6 +9302,7 @@
 0.0.0.0 sync.mathtag.com
 0.0.0.0 api.android.dianru.com
 0.0.0.0 push.zdworks.com
+0.0.0.0 c.statcounter.com
 0.0.0.0 livep.l.t002.ottcn.com
 0.0.0.0 bdjs.ixiumei.com
 0.0.0.0 web2.51.la
@@ -9513,6 +9530,7 @@
 0.0.0.0 ads.vamaker.com
 0.0.0.0 m.hogyp.com
 0.0.0.0 www.4207008.com
+0.0.0.0 stats.wp.com
 0.0.0.0 pageshow.dftoutiao.com
 0.0.0.0 cpu.baidu.com
 0.0.0.0 ifsk2.tanx.com
@@ -11111,47 +11129,6 @@
 127.0.0.1 adx.apiok.net
 127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 www3.smartadserver.com
-## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
-140.82.112.25                 alive.github.com
-140.82.113.26                 live.github.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.110.133               user-images.githubusercontent.com
-150.171.110.102               vscode.dev
-16.15.162.155                 github-com.s3.amazonaws.com
-46.82.174.68                  gist.github.com  # Timeout
-20.205.243.165                codeload.github.com
-128.121.243.235               github.global.ssl.fastly.net  # Timeout
-185.199.110.133               avatars4.githubusercontent.com
-192.0.66.2                    github.blog
-16.182.101.161                github-production-user-asset-6210df.s3.amazonaws.com
-185.199.110.133               avatars1.githubusercontent.com
-185.199.108.153               github.io
-140.82.112.22                 collector.github.com
-52.217.230.249                github-production-release-asset-2e65be.s3.amazonaws.com
-185.199.108.215               github.githubassets.com
-140.82.113.18                 github.community
-16.182.68.49                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.110.133               desktop.githubusercontent.com
-13.107.42.16                  pipelines.actions.githubusercontent.com
-185.199.110.133               camo.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-140.82.112.22                 api.individual.githubcopilot.com
-20.205.243.168                api.github.com
-185.199.110.133               avatars.githubusercontent.com
-140.82.114.22                 central.github.com
-185.199.110.133               avatars2.githubusercontent.com
-185.199.108.153               githubstatus.com
-185.199.110.133               raw.githubusercontent.com
-185.199.110.133               github.map.fastly.net
-185.199.110.133               private-user-images.githubusercontent.com
-185.199.110.133               cloud.githubusercontent.com
-16.15.183.117                 github-cloud.s3.amazonaws.com
-185.199.110.133               avatars3.githubusercontent.com
-20.205.243.166                github.com
-185.199.110.133               objects.githubusercontent.com
-185.199.110.133               media.githubusercontent.com
-140.82.114.22                 education.github.com
 ## 👇This Part Merge from: https://someonewhocares.org/hosts/zero/hosts
 0.0.0.0 www.stormhelix.uk
 0.0.0.0 www.catjre.com
@@ -11371,6 +11348,7 @@
 0.0.0.0 images.sexlist.com
 0.0.0.0 netshelter.adtrix.com
 0.0.0.0 amazon-tam-match.dotomi.com
+0.0.0.0 specialoffers.aol.com
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 media.charter.com
@@ -11380,7 +11358,6 @@
 0.0.0.0 stats.ladotstats.nl
 0.0.0.0 besacon.fr
 0.0.0.0 se.adserver.yahoo.com
-0.0.0.0 bluekai.com
 0.0.0.0 main.vodonet.net
 0.0.0.0 www.clubplanning.com
 0.0.0.0 networkads.net
@@ -11449,7 +11426,6 @@
 0.0.0.0 www.ads345.com
 0.0.0.0 dnsclocknow.com
 0.0.0.0 afp.qiyi.com
-0.0.0.0 js.revsci.net
 0.0.0.0 m02.webwise.org
 0.0.0.0 ad.iloveinterracial.com
 0.0.0.0 logs.spilgames.com
@@ -11669,7 +11645,6 @@
 0.0.0.0 adserver.kylemedia.com
 0.0.0.0 data2.perf.overture.com
 0.0.0.0 instabook.fr
-0.0.0.0 api.adsymptotic.com
 0.0.0.0 www.autotra.com
 0.0.0.0 analytics.onesearch.id
 0.0.0.0 archi-facile.fr
@@ -11870,7 +11845,6 @@
 0.0.0.0 maxmusics.com
 0.0.0.0 rewardpoll.com
 0.0.0.0 www.centeralbidding.com
-0.0.0.0 pixel.advertising.com
 0.0.0.0 boksy.onet.pl
 0.0.0.0 promoviral.com
 0.0.0.0 reportimage.adtech.fr
@@ -12980,6 +12954,7 @@
 0.0.0.0 pwdplz.com
 0.0.0.0 www.portutopcas.com
 0.0.0.0 ad-u.com
+0.0.0.0 speedclicks.ero-advertising.com
 0.0.0.0 ads.newsminerextra.com
 0.0.0.0 www.counter13.sextracker.be
 0.0.0.0 benefitsaccountreport.es
@@ -13284,6 +13259,7 @@
 0.0.0.0 logc1.xiti.com
 0.0.0.0 rtb16.adscience.nl
 0.0.0.0 k6.karbilyazilim.com
+0.0.0.0 sp.adbrn.com
 0.0.0.0 www.lamaisonhind.com
 0.0.0.0 data.coremetrics.com
 0.0.0.0 igrs.ca
@@ -13715,7 +13691,6 @@
 0.0.0.0 onedrive-sn.com
 0.0.0.0 www.counter1.sextracker.be
 0.0.0.0 ads.bonnint.net
-0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 banner.oddcast.com
 0.0.0.0 onilne.fr
 0.0.0.0 adpulse.ads.targetnet.com
@@ -13907,6 +13882,7 @@
 0.0.0.0 d11.zedo.com
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 www.bluecollarparanormal.com
+0.0.0.0 spanids.dictionary.com
 0.0.0.0 www.dangdangflow.com
 0.0.0.0 justdeckshamilton.ca
 0.0.0.0 pop.redirect.adsjudo.com
@@ -14075,7 +14051,6 @@
 0.0.0.0 ads.uigc.net
 0.0.0.0 www.prgwbn.cfd
 0.0.0.0 banners.blogads.com
-0.0.0.0 media.fastclick.net	# Likewise, this may interfere with some
 0.0.0.0 ads.rdstore.com
 0.0.0.0 dealerconnection.fr
 0.0.0.0 www.spiritentertainment.homes
@@ -14390,7 +14365,6 @@
 0.0.0.0 kvision.tv
 0.0.0.0 stats.superstats.com
 0.0.0.0 bp.adkmob.com
-0.0.0.0 eus.rubiconproject.com
 0.0.0.0 bgre.kozow.com
 0.0.0.0 sea.net.edu.cn
 0.0.0.0 img.marketgid.com
@@ -14646,6 +14620,7 @@
 0.0.0.0 h1.helenrosi.com
 0.0.0.0 likethis.mbosoft.com			# Facebook trojan
 0.0.0.0 getmyfreegiftcard.com
+0.0.0.0 solitairetime.com
 0.0.0.0 ads.virtualcountries.com
 0.0.0.0 louisvil.ur.gcion.com
 0.0.0.0 www.partilla.com
@@ -14663,7 +14638,6 @@
 0.0.0.0 figato.fr
 0.0.0.0 rmcdn.2mdn.net
 0.0.0.0 rtb21.adscience.nl
-0.0.0.0 counter.yadro.ru
 0.0.0.0 ads.kure.tv
 0.0.0.0 floatingads.madisonavenue.com
 0.0.0.0 hamiltonpainters.ca
@@ -14854,7 +14828,6 @@
 0.0.0.0 inkscape.es
 0.0.0.0 j2.jmooreassoc.com
 0.0.0.0 js.softreklam.com
-0.0.0.0 pix04.revsci.net
 0.0.0.0 intertech.co.jp
 0.0.0.0 steveberry.fr
 0.0.0.0 pcadvisor.uk.intellitxt.com
@@ -15223,6 +15196,7 @@
 0.0.0.0 track.msadcenter.vbug.com
 0.0.0.0 www.caothusohoc.com
 0.0.0.0 imago-tv.fr
+0.0.0.0 spanel.gem.pl
 0.0.0.0 logc22.xiti.com
 0.0.0.0 geizhals.oewabox.at
 0.0.0.0 asianread.com
@@ -15417,6 +15391,7 @@
 0.0.0.0 media.b.lead.program3.com
 0.0.0.0 b34rightym.com
 0.0.0.0 otletdivak.hu
+0.0.0.0 sortis.lt
 0.0.0.0 klefigaro.fr
 0.0.0.0 netflix.apple-green.net
 0.0.0.0 www.matifi.com
@@ -15509,6 +15484,7 @@
 0.0.0.0 mdunker.gmxhome.de
 0.0.0.0 freewheel-match.dotomi.com
 0.0.0.0 offers.royalvegascasino.com
+0.0.0.0 solicita.info
 0.0.0.0 c.dynad.net
 0.0.0.0 gyros.es
 0.0.0.0 publishers.adscholar.com
@@ -15689,6 +15665,7 @@
 0.0.0.0 stats.investors.com
 0.0.0.0 mac-osx.message-warning.net
 0.0.0.0 eddy.noneto.com
+0.0.0.0 special-alerts.com
 0.0.0.0 etype.adbureau.net
 0.0.0.0 www.playroyaluk.com
 0.0.0.0 evroteplo.ru
@@ -15835,7 +15812,6 @@
 0.0.0.0 1-bmo-client-login.com
 0.0.0.0 jasperrcorporation.com
 0.0.0.0 spklds.com
-0.0.0.0 c1.statcounter.com
 0.0.0.0 univ6lehavre.fr
 0.0.0.0 a7cleaner.com
 0.0.0.0 freevideodownloadforpc.com
@@ -15877,7 +15853,6 @@
 0.0.0.0 msssante.fr
 0.0.0.0 terricole.fr
 0.0.0.0 mylike.co.uk				# Facebook trojan
-0.0.0.0 beacon.krxd.net
 0.0.0.0 33.merivonview33.cc
 0.0.0.0 nmraleigh.112.2o7.net
 0.0.0.0 babanetwork.adk2x.com
@@ -16281,7 +16256,6 @@
 0.0.0.0 photos3.pop6.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 pages-perso-orange.fr
-0.0.0.0 counter.hitslink.com
 0.0.0.0 stationpack.de
 0.0.0.0 www.silebah.com
 0.0.0.0 leroymerln.fr
@@ -16813,7 +16787,6 @@
 0.0.0.0 mobile.bet.pt
 0.0.0.0 betclic.com
 0.0.0.0 knowseminar.com
-0.0.0.0 cdn.fastclick.net	# sites. 
 0.0.0.0 ferrago.uk.intellitxt.com
 0.0.0.0 macleaner.space
 0.0.0.0 adonline.e-kolay.net
@@ -17067,6 +17040,7 @@
 0.0.0.0 ad.eporner.com
 0.0.0.0 ads163.console.adtarget.com.tr
 0.0.0.0 movies-box.net
+0.0.0.0 sonycomputerentertai.tt.omtrdc.net
 0.0.0.0 biz5.sandai.net
 0.0.0.0 c3.somalisounds.com
 0.0.0.0 penseedepascal.fr
@@ -17169,6 +17143,7 @@
 0.0.0.0 www.c.thecounter.de
 0.0.0.0 www.learnnessy.com
 0.0.0.0 r6.ritikajoshi.com
+0.0.0.0 spanids.thesaurus.com
 0.0.0.0 ctziogas.gr
 0.0.0.0 pb.tynt.com
 0.0.0.0 app.monetizze.com.br
@@ -18077,6 +18052,7 @@
 0.0.0.0 www.exvaro.cfd
 0.0.0.0 profitboosterapp.com
 0.0.0.0 revsci.net
+0.0.0.0 sophang8.com
 0.0.0.0 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0 stat.netmonitor.fi
 0.0.0.0 fw.qq.com
@@ -18183,7 +18159,6 @@
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
 0.0.0.0 audi4e.oewabox.at
 0.0.0.0 delivery.us.myswitchads.com
-0.0.0.0 bam.nr-data.net
 0.0.0.0 www.paidtheme.com
 0.0.0.0 cbaol.112.2o7.net
 0.0.0.0 burley.fr
@@ -18397,6 +18372,7 @@
 0.0.0.0 pix521.adtech.us
 0.0.0.0 joomlaworks.fr
 0.0.0.0 www.board-ly.com
+0.0.0.0 speed.pointroll.com
 0.0.0.0 mgwspa.112.2o7.net
 0.0.0.0 ad4.bannerbank.ru
 0.0.0.0 compufixshop.com
@@ -18423,7 +18399,6 @@
 0.0.0.0 www.cloudverge.uk
 0.0.0.0 ads.ole.com
 0.0.0.0 downloads.larivieracasino.com
-0.0.0.0 click.atdmt.com
 0.0.0.0 clonezilla.es
 0.0.0.0 accountsections.com
 0.0.0.0 thankstossl.com
@@ -18516,6 +18491,7 @@
 0.0.0.0 histock.info
 0.0.0.0 politiquemania.fr
 0.0.0.0 mediabistrocom.112.2o7.net
+0.0.0.0 solution.weborama.fr
 0.0.0.0 www.joinfx.net
 0.0.0.0 bannerconnect.net
 0.0.0.0 lsassoc.com
@@ -18832,7 +18808,6 @@
 0.0.0.0 bnvxcfhdgf.blogspot.com.es
 0.0.0.0 ads.freebannertrade.com
 0.0.0.0 bitburg.adtech.fr
-0.0.0.0 activity.serving-sys.com	#eyeblaster.com
 0.0.0.0 www.grandtables.com
 0.0.0.0 i6.vaishnaviinterior.com
 0.0.0.0 c.casalemedia.com
@@ -20154,6 +20129,7 @@
 0.0.0.0 www.iesnare.co.uk
 0.0.0.0 tnews.day
 0.0.0.0 counter44.bravenet.com
+0.0.0.0 somethingawful.crwdcntrl.net
 0.0.0.0 ads.peel.com
 0.0.0.0 bwp.lastfm.com.com
 0.0.0.0 ertbaudet.fr
@@ -20204,6 +20180,7 @@
 0.0.0.0 g2.gumgum.com
 0.0.0.0 vgsnf.comfortykive.xyz
 0.0.0.0 clickserv.sitescout.com
+0.0.0.0 spadework.org
 0.0.0.0 lonaci.fr
 0.0.0.0 kropka.onet.pl
 0.0.0.0 moodretrieval.com
@@ -20612,7 +20589,6 @@
 0.0.0.0 10fbb07a4b0.se
 0.0.0.0 cs-cart.jp
 0.0.0.0 adc2.adcentriconline.com
-0.0.0.0 c.statcounter.com
 0.0.0.0 de-config.sensic.net
 0.0.0.0 clickauditor.net
 0.0.0.0 nytrsantarosa.112.2o7.net
@@ -20914,6 +20890,7 @@
 0.0.0.0 newpipe.app
 0.0.0.0 gostats.com
 0.0.0.0 adserv.bravenet.com
+0.0.0.0 speedboink.com
 0.0.0.0 411playz.com
 0.0.0.0 grooveshark.fr
 0.0.0.0 stpetersburgtimes.122.2o7.net
@@ -20922,7 +20899,6 @@
 0.0.0.0 ads216.console.adtarget.com.tr
 0.0.0.0 checkout360now.net
 0.0.0.0 ad.ohmynews.com
-0.0.0.0 stats.wp.com
 0.0.0.0 adshufffle.com
 0.0.0.0 ads.rcgroups.com
 0.0.0.0 banners.webcounter.com
@@ -20986,6 +20962,7 @@
 0.0.0.0 bbcdn.go.eu.bbelements.com
 0.0.0.0 derstandard.nuggad.net
 0.0.0.0 castortama.fr
+0.0.0.0 spaces.slimspots.com
 0.0.0.0 showadsak.pubmatic.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 lifchnger.ru.com
@@ -21370,7 +21347,6 @@
 0.0.0.0 vilagpolgarok.blogspot.hu
 0.0.0.0 tdameritrade.tt.omtrdc.net
 0.0.0.0 www.telusplanet.net
-0.0.0.0 specialoffers.aol.com
 0.0.0.0 www.ecoledessciences.com
 0.0.0.0 w126.hitbox.com
 0.0.0.0 www.apogara.plus.com
@@ -21418,7 +21394,6 @@
 0.0.0.0 wytypowany-zwyciezca.pl
 0.0.0.0 xanax-online.run.to
 0.0.0.0 sync.outbrain.com
-0.0.0.0 spanids.dictionary.com
 0.0.0.0 www.shopperpromotions.com
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 ehg-space.hitbox.com
@@ -22113,7 +22088,6 @@
 0.0.0.0 ehg-ubisoft.hitbox.com
 0.0.0.0 wy.5.p2l.info
 0.0.0.0 buy-vicodin-online.seumala.net
-0.0.0.0 sonycomputerentertai.tt.omtrdc.net
 0.0.0.0 www.euros4click.de
 0.0.0.0 oascentral.cybereps.com
 0.0.0.0 www.skegness.net
@@ -22194,7 +22168,6 @@
 0.0.0.0 www1.xmediaserve.com
 0.0.0.0 speeltuintalud.nl
 0.0.0.0 www.realincestvideos.com
-0.0.0.0 spanids.thesaurus.com
 0.0.0.0 ehg-knightridder.hitbox.com
 0.0.0.0 te.scrippsnewspapersprivacy.com
 0.0.0.0 goatse.ru
@@ -22229,7 +22202,6 @@
 0.0.0.0 www.morefreecamsecrets.com
 0.0.0.0 www.cliftons.plus.com
 0.0.0.0 www.ficken-ficken-ficken.cxa.de
-0.0.0.0 solitairetime.com
 0.0.0.0 wellbutrin.3.p2l.info
 0.0.0.0 www2.zapadserver1.com
 0.0.0.0 yhti.net
@@ -22747,7 +22719,6 @@
 0.0.0.0 w157.hitbox.com
 0.0.0.0 www.dirtyrhino.com
 0.0.0.0 www.ctbdev.net
-0.0.0.0 somethingawful.crwdcntrl.net
 0.0.0.0 t8t7frium3.s.ad6media.fr
 0.0.0.0 www.startnewtab.com
 0.0.0.0 il.5.p2l.info
@@ -22811,7 +22782,6 @@
 0.0.0.0 oascentralnx.comcast.net
 0.0.0.0 oascentral.sfgate.com
 0.0.0.0 super-mario-deluxe.net
-0.0.0.0 spadework.org
 0.0.0.0 www.rpepin.plus.com
 0.0.0.0 www.defaultinternet.com
 0.0.0.0 www.adfusion.com
@@ -22835,7 +22805,6 @@
 0.0.0.0 www.thepounder.com
 0.0.0.0 x3.extreme-dm.com
 0.0.0.0 yasmin.3.p2l.info
-0.0.0.0 spanel.gem.pl
 0.0.0.0 ecard4all.com
 0.0.0.0 ns1.hitbox.com
 0.0.0.0 phentermine.3.p2l.info
@@ -23032,7 +23001,6 @@
 0.0.0.0 www.crystaltao.art
 0.0.0.0 vnumedia02.webtrekk.net
 0.0.0.0 themaplemethod.com
-0.0.0.0 sortis.lt
 0.0.0.0 spolecznosci.mgr.consensu.org
 0.0.0.0 v2.viayonetici.com
 0.0.0.0 www.freecamsecrets.com
@@ -23101,7 +23069,6 @@
 0.0.0.0 vdbunt.net
 0.0.0.0 xml.realtime-bid.com
 0.0.0.0 buy-vicodin.hut1.ru
-0.0.0.0 speedclicks.ero-advertising.com
 0.0.0.0 www.treeloot.com
 0.0.0.0 shockgore.com
 0.0.0.0 nordette.4.p2l.info
@@ -23142,7 +23109,6 @@
 0.0.0.0 www.xvideoslive.com
 0.0.0.0 www.abc-tax.jp
 0.0.0.0 www.aptracking1.com
-0.0.0.0 solicita.info
 0.0.0.0 stage103.hitbox.com
 0.0.0.0 2girls1finger.com
 0.0.0.0 swfhostltd.com
@@ -23158,7 +23124,6 @@
 0.0.0.0 2site.com
 0.0.0.0 yadro.ru
 0.0.0.0 youaresogay.com
-0.0.0.0 sophang8.com
 0.0.0.0 www.nextlnk7.com
 0.0.0.0 ehg-rfa.hitbox.com
 0.0.0.0 www.2girls1cup.cc
@@ -23360,7 +23325,6 @@
 0.0.0.0 www.konversation.com
 0.0.0.0 www.sourmath.com
 0.0.0.0 synacor-match.dotomi.com
-0.0.0.0 special-alerts.com
 0.0.0.0 thebuzz.today
 0.0.0.0 www.bestshockers.com
 0.0.0.0 wf.taboola.com
@@ -23467,7 +23431,6 @@
 0.0.0.0 ehg-sonymusic.hitbox.com
 0.0.0.0 w132.hitbox.com
 0.0.0.0 w6.hitbox.com
-0.0.0.0 sp.adbrn.com
 0.0.0.0 www.lpmxp2024.com
 0.0.0.0 www.adnet.com
 0.0.0.0 viagra-soft-tabs.1.p2l.info
@@ -23553,7 +23516,6 @@
 0.0.0.0 texas-diesel.com
 0.0.0.0 www.tradem.com
 0.0.0.0 www.poker4spain.com
-0.0.0.0 speed.pointroll.com
 0.0.0.0 suckdude.com
 0.0.0.0 ehg-wss.hitbox.com
 0.0.0.0 x-image.net
@@ -23648,7 +23610,6 @@
 0.0.0.0 unityads.unitychina.cn
 0.0.0.0 www.eva.hi-ho.ne.jp
 0.0.0.0 windows-wsus-update.com
-0.0.0.0 speedboink.com
 0.0.0.0 wigetmedia.com
 0.0.0.0 www.ma-kaeser.ch
 0.0.0.0 buy-ultram-online.iscool.nl
@@ -23677,7 +23638,6 @@
 0.0.0.0 nasacort.1.p2l.info
 0.0.0.0 www.garethwalker.plus.com
 0.0.0.0 ehg-groceryworks.hitbox.com
-0.0.0.0 solution.weborama.fr
 0.0.0.0 www.cosmeticscentre.uk.com
 0.0.0.0 arthritis.atspace.com
 0.0.0.0 www.xadsmart.com
@@ -23734,7 +23694,6 @@
 0.0.0.0 creampie.afdss.info
 0.0.0.0 wdm29.com
 0.0.0.0 buy-xanax.aztecaonline.net
-0.0.0.0 spaces.slimspots.com
 0.0.0.0 stage102.hitbox.com
 0.0.0.0 sourmath.com
 0.0.0.0 www.praktijkmariekehuisman.nl
@@ -23907,6 +23866,47 @@
 0.0.0.0 trourted.pro
 0.0.0.0 www.tao123.com
 0.0.0.0 www.coinzilla.io
+## 👇This Part Merge from:  https://raw.hellogithub.com/hosts
+140.82.113.22                 api.individual.githubcopilot.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
+150.171.110.102               vscode.dev
+185.199.110.153               githubstatus.com
+20.205.243.165                codeload.github.com
+52.216.50.249                 github-production-user-asset-6210df.s3.amazonaws.com
+185.199.110.133               avatars4.githubusercontent.com
+16.15.213.166                 github-production-release-asset-2e65be.s3.amazonaws.com
+192.0.66.2                    github.blog
+140.82.113.21                 education.github.com
+185.199.110.133               avatars1.githubusercontent.com
+140.82.112.22                 collector.github.com
+140.82.113.17                 github.community
+185.199.110.133               desktop.githubusercontent.com
+13.107.42.16                  pipelines.actions.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+20.205.243.168                api.github.com
+185.199.110.133               avatars.githubusercontent.com
+140.82.114.22                 central.github.com
+185.199.110.215               github.githubassets.com
+185.199.110.133               avatars2.githubusercontent.com
+16.15.229.55                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.113.25                 alive.github.com
+185.199.110.133               raw.githubusercontent.com
+185.199.110.133               github.map.fastly.net
+185.199.110.133               private-user-images.githubusercontent.com
+185.199.110.133               cloud.githubusercontent.com
+185.199.110.153               github.io
+52.216.214.129                github-cloud.s3.amazonaws.com
+185.199.110.133               avatars3.githubusercontent.com
+16.15.255.172                 github-com.s3.amazonaws.com
+20.205.243.166                github.com
+185.199.110.133               objects.githubusercontent.com
+243.185.187.39                gist.github.com  # Timeout
+140.82.113.25                 live.github.com
+185.199.110.133               media.githubusercontent.com
+140.248.129.194               github.global.ssl.fastly.net
 ## 👇This Part Merge from: https://adaway.org/hosts.txt
 127.0.0.1 app-lon06.marketo.com
 127.0.0.1 cf.adxcel.com
